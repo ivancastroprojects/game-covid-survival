@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0d55f9e21c849414882e0af3822c28ed
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CF Night of Terror PERSONAL
+  fontNames:
+  - CF Night of Terror PERSONAL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ea783980cc4bc61439c3c20db586bbfd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

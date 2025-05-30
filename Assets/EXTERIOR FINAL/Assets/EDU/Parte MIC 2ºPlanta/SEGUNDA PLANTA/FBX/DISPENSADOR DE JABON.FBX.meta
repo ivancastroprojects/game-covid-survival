@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 29f6fcfb4eadd894eaa396ce59be42b9
+timeCreated: 1503741440
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer:Dispensador Jabon parte blanca
+    100004: Layer:Dispensador Jabon parte gris claro
+    100006: Layer:Dispensador Jabon parte gris oscuro
+    100008: Layer:Dispensador Jabon parte negra
+    400000: //RootNode
+    400002: Layer:Dispensador Jabon parte blanca
+    400004: Layer:Dispensador Jabon parte gris claro
+    400006: Layer:Dispensador Jabon parte gris oscuro
+    400008: Layer:Dispensador Jabon parte negra
+    2300000: Layer:Dispensador Jabon parte blanca
+    2300002: Layer:Dispensador Jabon parte gris claro
+    2300004: Layer:Dispensador Jabon parte gris oscuro
+    2300006: Layer:Dispensador Jabon parte negra
+    3300000: Layer:Dispensador Jabon parte blanca
+    3300002: Layer:Dispensador Jabon parte gris claro
+    3300004: Layer:Dispensador Jabon parte gris oscuro
+    3300006: Layer:Dispensador Jabon parte negra
+    4300000: Layer:Dispensador Jabon parte negra
+    4300002: Layer:Dispensador Jabon parte gris oscuro
+    4300004: Layer:Dispensador Jabon parte blanca
+    4300006: Layer:Dispensador Jabon parte gris claro
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

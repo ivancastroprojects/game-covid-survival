@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9203029199531029072
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9203029199531029079}
+  - component: {fileID: 9203029199189274526}
+  - component: {fileID: 919251872435369105}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9203029199531029079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9203029199531029072}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -63.401863, y: 8.30283, z: -32.85262}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9203029199189274526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9203029199531029072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6904bbc70ffc58e4cbfb493b4d50091d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  quest:
+    title: 
+    description: 
+    npc: 
+    goal:
+      goalType: 0
+      requiredAmount: 0
+      currentAmount: 0
+      enemy: {fileID: 0}
+    isActive: 0
+    complete: 0
+    activateAdds: 0
+    activateSyringe: 0
+  questWindow: {fileID: 0}
+  titleBox: {fileID: 0}
+  descriptionBox: {fileID: 0}
+  completeMision: {fileID: 0}
+  active: 0
+  questGiver: {fileID: 0}
+  cameraBase: {fileID: 0}
+  savedPersons: {fileID: 0}
+  music: {fileID: 0}
+  canvas: {fileID: 0}
+  theSyringe: {fileID: 0}
+  munitionDose: 60
+  mainScientist: {fileID: 0}
+  guardScientist: {fileID: 0}
+  theEnemies: {fileID: 0}
+  interfaceDisplay: {fileID: 0}
+--- !u!114 &919251872435369105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9203029199531029072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7047437a1bc3e45b6655dcafa22613, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterPrefabs: []
+  spawnPoint: {fileID: 0}
+  label: {fileID: 0}

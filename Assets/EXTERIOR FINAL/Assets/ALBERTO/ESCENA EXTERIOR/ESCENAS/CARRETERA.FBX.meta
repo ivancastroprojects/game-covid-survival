@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: a26981e8bcc1c7b42ac15e5c3f2a5200
+timeCreated: 1504312073
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer:0
+    100004: Layer:0 1
+    100006: Layer:Borde Arbol (GRIS)
+    100008: Layer:Bordillo Carretera
+    100010: Layer:Carretera
+    100012: Layer:Cesped
+    100014: Layer:Lineas aparcamientos
+    100016: Layer:Muro Jesuitas
+    100018: Layer:Plazas Aparcamiento
+    100020: Layer:Suelo acera
+    100022: Layer:Suelo acera claro
+    100024: Layer:Suelo paso de peatones
+    100026: Layer:SUELO TIERRA EXTERIOR
+    100028: Layer:Tierra Arbol
+    400000: //RootNode
+    400002: Layer:0
+    400004: Layer:0 1
+    400006: Layer:Borde Arbol (GRIS)
+    400008: Layer:Bordillo Carretera
+    400010: Layer:Carretera
+    400012: Layer:Cesped
+    400014: Layer:Lineas aparcamientos
+    400016: Layer:Muro Jesuitas
+    400018: Layer:Plazas Aparcamiento
+    400020: Layer:Suelo acera
+    400022: Layer:Suelo acera claro
+    400024: Layer:Suelo paso de peatones
+    400026: Layer:SUELO TIERRA EXTERIOR
+    400028: Layer:Tierra Arbol
+    2300000: Layer:0 1
+    2300002: Layer:Borde Arbol (GRIS)
+    2300004: Layer:Bordillo Carretera
+    2300006: Layer:Carretera
+    2300008: Layer:Cesped
+    2300010: Layer:Lineas aparcamientos
+    2300012: Layer:Muro Jesuitas
+    2300014: Layer:Plazas Aparcamiento
+    2300016: Layer:Suelo acera
+    2300018: Layer:Suelo acera claro
+    2300020: Layer:Suelo paso de peatones
+    2300022: Layer:SUELO TIERRA EXTERIOR
+    2300024: Layer:Tierra Arbol
+    3300000: Layer:0 1
+    3300002: Layer:Borde Arbol (GRIS)
+    3300004: Layer:Bordillo Carretera
+    3300006: Layer:Carretera
+    3300008: Layer:Cesped
+    3300010: Layer:Lineas aparcamientos
+    3300012: Layer:Muro Jesuitas
+    3300014: Layer:Plazas Aparcamiento
+    3300016: Layer:Suelo acera
+    3300018: Layer:Suelo acera claro
+    3300020: Layer:Suelo paso de peatones
+    3300022: Layer:SUELO TIERRA EXTERIOR
+    3300024: Layer:Tierra Arbol
+    4300000: Layer:SUELO TIERRA EXTERIOR
+    4300002: Layer:Suelo acera claro
+    4300004: Layer:Suelo paso de peatones
+    4300006: Layer:Bordillo Carretera
+    4300008: Layer:Suelo acera
+    4300010: Layer:Lineas aparcamientos
+    4300012: Layer:Plazas Aparcamiento
+    4300014: Layer:0
+    4300016: Layer:Tierra Arbol
+    4300018: Layer:Borde Arbol (GRIS)
+    4300020: Layer:Carretera
+    4300022: Layer:Cesped
+    4300024: Layer:Muro Jesuitas
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

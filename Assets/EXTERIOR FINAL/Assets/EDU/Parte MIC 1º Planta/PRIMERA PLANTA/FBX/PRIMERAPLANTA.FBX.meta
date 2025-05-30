@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 6f4589d23d1da8344b3cb1f1d5b58fe0
+timeCreated: 1504170297
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Layer:0
+    100002: Layer:Armario
+    100004: Layer:Armario 1
+    100006: Layer:Ascensor
+    100008: Layer:Ascensor (botones)
+    100010: "Layer:Ascensor (Fondo n\xFAmero)"
+    100012: Layer:Ascensor (numero)
+    100014: Layer:Ascensor 1
+    100016: Layer:Barandilla
+    100018: Layer:Barandilla 1
+    100020: Layer:Bisagra
+    100022: Layer:CajaElectricidad cristal
+    100024: Layer:CajaElectricidad parte amarilla
+    100026: Layer:CajaElectricidad parte blanca
+    100028: Layer:CajaElectricidad parte gris
+    100030: Layer:CajaElectricidad parte gris 2
+    100032: Layer:CajaElectricidad parte negra
+    100034: Layer:CajaEnchufes parte blanca
+    100036: Layer:CajaEnchufes parte gris
+    100038: Layer:CajaEnchufes parte negra
+    100040: Layer:CajaEnchufes parte negra 1
+    100042: Layer:CajaEnchufes parte roja
+    100044: Layer:CajaManguera Cristal
+    100046: Layer:CajaManguera parte amarilla
+    100048: Layer:CajaManguera parte gris
+    100050: Layer:CajaManguera parte negra
+    100052: Layer:CajaManguera parte negra imagen
+    100054: Layer:CajaManguera parte puerta plateado
+    100056: Layer:CajaManguera parte roja
+    100058: Layer:CARPINTERIA 1
+    100060: Layer:CARPINTERIA 1 1
+    100062: Layer:CARPINTERIA 2
+    100064: Layer:Cartel boca de incendios
+    100066: Layer:Cartel extintor
+    100068: Layer:Cartel extintor 1
+    100070: Layer:Cartel pulsador
+    100072: Layer:Cartel timbre
+    100074: Layer:CONTRACHAPADO BANCOS (HORIZONTAL)
+    100076: Layer:CONTRACHAPADO BANCOS (VERTICAL)
+    100078: Layer:CONTRACHAPADO GRANDE
+    100080: Layer:CONTRACHAPADO MEDIANO
+    100082: Layer:CONTRACHAPADO MUY GRANDE
+    100084: "Layer:CONTRACHAPADO PEQUE\xD1O"
+    100086: Layer:CONTRACHAPADO REMATES
+    100088: Layer:Controlador parte blanca
+    100090: Layer:Controlador parte gris
+    100092: Layer:Cristal
+    100094: Layer:Cristal armario
+    100096: Layer:Cristal opaco
+    100098: Layer:Cristal opaco 1
+    100100: Layer:Cristal opaco 2
+    100102: Layer:Cristal puerta
+    100104: Layer:Detector de humos
+    100106: Layer:Detector de movimiento
+    100108: Layer:Enchufe parte clara
+    100110: Layer:Enchufe parte oscura
+    100112: Layer:Escaleras
+    100114: Layer:Escaleras abajo (cemento)
+    100116: Layer:Extintor parte amarilla (anilla)
+    100118: Layer:Extintor parte gris
+    100120: Layer:Extintor parte negra
+    100122: Layer:Extintor parte roja
+    100124: Layer:Extintor parte roja 1
+    100126: Layer:Extintor parte verde
+    100128: Layer:Lavamanos parte blanca
+    100130: Layer:Lavamanos parte metalica
+    100132: Layer:Lavamanos parte negra
+    100134: Layer:LUZ RECTANGULAR (BLANCO)
+    100136: Layer:LUZ RECTANGULAR (CRISTAL OPACO)
+    100138: Layer:LUZ RECTANGULAR (LUZ AZUL CLARO)
+    100140: Layer:LUZ REDONDA (BLANCO)
+    100142: Layer:LUZ REDONDA (CRISTAL)
+    100144: Layer:MADERA EXTERIOR
+    100146: Layer:Manillar ventana
+    100148: Layer:Manillas y tornillos armarios
+    100150: Layer:Marco exterior
+    100152: Layer:Marco exterior 1
+    100154: Layer:Marco interior
+    100156: Layer:METALICO
+    100158: Layer:METALICO EXTERNO
+    100160: Layer:Muro Exterior
+    100162: Layer:Muro Interior
+    100164: Layer:PANELES
+    100166: "Layer:PANELES BA\xD1O"
+    100168: "Layer:PARED BA\xD1O 1"
+    100170: "Layer:PARED BA\xD1O 2"
+    100172: "Layer:PARED BA\xD1O 3"
+    100174: "Layer:PARED BA\xD1O 4"
+    100176: "Layer:Pared ba\xF1o partes peque\xF1as"
+    100178: Layer:PARED CEMENTO
+    100180: Layer:PARED CEMENTO (HUECO ESCALERAS)
+    100182: "Layer:PARED CEMENTO BA\xD1O"
+    100184: Layer:Pared cemento remates (horizontal)
+    100186: Layer:Pared cemento remates (vertical)
+    100188: Layer:PARED NORMAL
+    100190: Layer:PARED NORMAL 1
+    100192: "Layer:PARED NORMAL 2\xBA PLANTA"
+    100194: Layer:POMOS PUERTA
+    100196: Layer:POMOS PUERTA 1
+    100198: Layer:PUERTA
+    100200: Layer:Puerta de emergencia parte gris
+    100202: Layer:Puerta de emergencia parte negra
+    100204: Layer:Puerta emergencia parte roja
+    100206: Layer:Puertas Metalicas
+    100208: Layer:Radiador
+    100210: Layer:Radiador 1
+    100212: Layer:Radiador_MeshPart0
+    100214: Layer:Radiador_MeshPart1
+    100216: Layer:RODAPIE
+    100218: Layer:Router
+    100220: Layer:Router (luz verde)
+    100222: Layer:Salida de aire parte blanca
+    100224: Layer:Salida de aire parte negra
+    100226: "Layer:Sof\xE1"
+    100228: "Layer:Suelo Ba\xF1o"
+    100230: Layer:Suelo escaleras 2
+    100232: Layer:Suelo planta baja
+    100234: Layer:Suelo primer pasillo
+    100236: Layer:Suelo Pulido escaleras
+    100238: Layer:Suelo Pulido parte grande
+    100240: Layer:Suelo segundo pasillo
+    100242: Layer:Suelo terraza
+    100244: Layer:Tablero mesa
+    100246: "Layer:Techo 2\xBA planta"
+    100248: "Layer:Techo ba\xF1o"
+    100250: Layer:Techo primer pasillo
+    100252: Layer:Techo segundo pasillo
+    100254: Layer:Timbre bomberos parte blanca
+    100256: Layer:Timbre bomberos parte negra
+    100258: Layer:Timbre Bomberos parte roja
+    100260: Layer:ztornillos paneles
+    100262: //RootNode
+    400000: Layer:0
+    400002: Layer:Armario
+    400004: Layer:Armario 1
+    400006: Layer:Ascensor
+    400008: Layer:Ascensor (botones)
+    400010: "Layer:Ascensor (Fondo n\xFAmero)"
+    400012: Layer:Ascensor (numero)
+    400014: Layer:Ascensor 1
+    400016: Layer:Barandilla
+    400018: Layer:Barandilla 1
+    400020: Layer:Bisagra
+    400022: Layer:CajaElectricidad cristal
+    400024: Layer:CajaElectricidad parte amarilla
+    400026: Layer:CajaElectricidad parte blanca
+    400028: Layer:CajaElectricidad parte gris
+    400030: Layer:CajaElectricidad parte gris 2
+    400032: Layer:CajaElectricidad parte negra
+    400034: Layer:CajaEnchufes parte blanca
+    400036: Layer:CajaEnchufes parte gris
+    400038: Layer:CajaEnchufes parte negra
+    400040: Layer:CajaEnchufes parte negra 1
+    400042: Layer:CajaEnchufes parte roja
+    400044: Layer:CajaManguera Cristal
+    400046: Layer:CajaManguera parte amarilla
+    400048: Layer:CajaManguera parte gris
+    400050: Layer:CajaManguera parte negra
+    400052: Layer:CajaManguera parte negra imagen
+    400054: Layer:CajaManguera parte puerta plateado
+    400056: Layer:CajaManguera parte roja
+    400058: Layer:CARPINTERIA 1
+    400060: Layer:CARPINTERIA 1 1
+    400062: Layer:CARPINTERIA 2
+    400064: Layer:Cartel boca de incendios
+    400066: Layer:Cartel extintor
+    400068: Layer:Cartel extintor 1
+    400070: Layer:Cartel pulsador
+    400072: Layer:Cartel timbre
+    400074: Layer:CONTRACHAPADO BANCOS (HORIZONTAL)
+    400076: Layer:CONTRACHAPADO BANCOS (VERTICAL)
+    400078: Layer:CONTRACHAPADO GRANDE
+    400080: Layer:CONTRACHAPADO MEDIANO
+    400082: Layer:CONTRACHAPADO MUY GRANDE
+    400084: "Layer:CONTRACHAPADO PEQUE\xD1O"
+    400086: Layer:CONTRACHAPADO REMATES
+    400088: Layer:Controlador parte blanca
+    400090: Layer:Controlador parte gris
+    400092: Layer:Cristal
+    400094: Layer:Cristal armario
+    400096: Layer:Cristal opaco
+    400098: Layer:Cristal opaco 1
+    400100: Layer:Cristal opaco 2
+    400102: Layer:Cristal puerta
+    400104: Layer:Detector de humos
+    400106: Layer:Detector de movimiento
+    400108: Layer:Enchufe parte clara
+    400110: Layer:Enchufe parte oscura
+    400112: Layer:Escaleras
+    400114: Layer:Escaleras abajo (cemento)
+    400116: Layer:Extintor parte amarilla (anilla)
+    400118: Layer:Extintor parte gris
+    400120: Layer:Extintor parte negra
+    400122: Layer:Extintor parte roja
+    400124: Layer:Extintor parte roja 1
+    400126: Layer:Extintor parte verde
+    400128: Layer:Lavamanos parte blanca
+    400130: Layer:Lavamanos parte metalica
+    400132: Layer:Lavamanos parte negra
+    400134: Layer:LUZ RECTANGULAR (BLANCO)
+    400136: Layer:LUZ RECTANGULAR (CRISTAL OPACO)
+    400138: Layer:LUZ RECTANGULAR (LUZ AZUL CLARO)
+    400140: Layer:LUZ REDONDA (BLANCO)
+    400142: Layer:LUZ REDONDA (CRISTAL)
+    400144: Layer:MADERA EXTERIOR
+    400146: Layer:Manillar ventana
+    400148: Layer:Manillas y tornillos armarios
+    400150: Layer:Marco exterior
+    400152: Layer:Marco exterior 1
+    400154: Layer:Marco interior
+    400156: Layer:METALICO
+    400158: Layer:METALICO EXTERNO
+    400160: Layer:Muro Exterior
+    400162: Layer:Muro Interior
+    400164: Layer:PANELES
+    400166: "Layer:PANELES BA\xD1O"
+    400168: "Layer:PARED BA\xD1O 1"
+    400170: "Layer:PARED BA\xD1O 2"
+    400172: "Layer:PARED BA\xD1O 3"
+    400174: "Layer:PARED BA\xD1O 4"
+    400176: "Layer:Pared ba\xF1o partes peque\xF1as"
+    400178: Layer:PARED CEMENTO
+    400180: Layer:PARED CEMENTO (HUECO ESCALERAS)
+    400182: "Layer:PARED CEMENTO BA\xD1O"
+    400184: Layer:Pared cemento remates (horizontal)
+    400186: Layer:Pared cemento remates (vertical)
+    400188: Layer:PARED NORMAL
+    400190: Layer:PARED NORMAL 1
+    400192: "Layer:PARED NORMAL 2\xBA PLANTA"
+    400194: Layer:POMOS PUERTA
+    400196: Layer:POMOS PUERTA 1
+    400198: Layer:PUERTA
+    400200: Layer:Puerta de emergencia parte gris
+    400202: Layer:Puerta de emergencia parte negra
+    400204: Layer:Puerta emergencia parte roja
+    400206: Layer:Puertas Metalicas
+    400208: Layer:Radiador
+    400210: Layer:Radiador 1
+    400212: Layer:Radiador_MeshPart0
+    400214: Layer:Radiador_MeshPart1
+    400216: Layer:RODAPIE
+    400218: Layer:Router
+    400220: Layer:Router (luz verde)
+    400222: Layer:Salida de aire parte blanca
+    400224: Layer:Salida de aire parte negra
+    400226: "Layer:Sof\xE1"
+    400228: "Layer:Suelo Ba\xF1o"
+    400230: Layer:Suelo escaleras 2
+    400232: Layer:Suelo planta baja
+    400234: Layer:Suelo primer pasillo
+    400236: Layer:Suelo Pulido escaleras
+    400238: Layer:Suelo Pulido parte grande
+    400240: Layer:Suelo segundo pasillo
+    400242: Layer:Suelo terraza
+    400244: Layer:Tablero mesa
+    400246: "Layer:Techo 2\xBA planta"
+    400248: "Layer:Techo ba\xF1o"
+    400250: Layer:Techo primer pasillo
+    400252: Layer:Techo segundo pasillo
+    400254: Layer:Timbre bomberos parte blanca
+    400256: Layer:Timbre bomberos parte negra
+    400258: Layer:Timbre Bomberos parte roja
+    400260: Layer:ztornillos paneles
+    400262: //RootNode
+    2300000: Layer:Armario
+    2300002: Layer:Ascensor (botones)
+    2300004: "Layer:Ascensor (Fondo n\xFAmero)"
+    2300006: Layer:Ascensor (numero)
+    2300008: Layer:Ascensor 1
+    2300010: Layer:Barandilla
+    2300012: Layer:Bisagra
+    2300014: Layer:CajaElectricidad cristal
+    2300016: Layer:CajaElectricidad parte amarilla
+    2300018: Layer:CajaElectricidad parte blanca
+    2300020: Layer:CajaElectricidad parte gris
+    2300022: Layer:CajaElectricidad parte gris 2
+    2300024: Layer:CajaElectricidad parte negra
+    2300026: Layer:CajaEnchufes parte blanca
+    2300028: Layer:CajaEnchufes parte gris
+    2300030: Layer:CajaEnchufes parte negra 1
+    2300032: Layer:CajaEnchufes parte roja
+    2300034: Layer:CajaManguera Cristal
+    2300036: Layer:CajaManguera parte amarilla
+    2300038: Layer:CajaManguera parte gris
+    2300040: Layer:CajaManguera parte negra
+    2300042: Layer:CajaManguera parte negra imagen
+    2300044: Layer:CajaManguera parte puerta plateado
+    2300046: Layer:CajaManguera parte roja
+    2300048: Layer:CARPINTERIA 1
+    2300050: Layer:CARPINTERIA 2
+    2300052: Layer:Cartel boca de incendios
+    2300054: Layer:Cartel extintor 1
+    2300056: Layer:Cartel pulsador
+    2300058: Layer:Cartel timbre
+    2300060: Layer:CONTRACHAPADO BANCOS (HORIZONTAL)
+    2300062: Layer:CONTRACHAPADO BANCOS (VERTICAL)
+    2300064: Layer:CONTRACHAPADO GRANDE
+    2300066: Layer:CONTRACHAPADO MEDIANO
+    2300068: Layer:CONTRACHAPADO MUY GRANDE
+    2300070: "Layer:CONTRACHAPADO PEQUE\xD1O"
+    2300072: Layer:CONTRACHAPADO REMATES
+    2300074: Layer:Controlador parte blanca
+    2300076: Layer:Controlador parte gris
+    2300078: Layer:Cristal
+    2300080: Layer:Cristal armario
+    2300082: Layer:Cristal opaco
+    2300084: Layer:Cristal opaco 1
+    2300086: Layer:Cristal opaco 2
+    2300088: Layer:Cristal puerta
+    2300090: Layer:Detector de humos
+    2300092: Layer:Detector de movimiento
+    2300094: Layer:Enchufe parte clara
+    2300096: Layer:Enchufe parte oscura
+    2300098: Layer:Escaleras
+    2300100: Layer:Escaleras abajo (cemento)
+    2300102: Layer:Extintor parte amarilla (anilla)
+    2300104: Layer:Extintor parte gris
+    2300106: Layer:Extintor parte negra
+    2300108: Layer:Extintor parte roja 1
+    2300110: Layer:Extintor parte verde
+    2300112: Layer:Lavamanos parte blanca
+    2300114: Layer:Lavamanos parte metalica
+    2300116: Layer:Lavamanos parte negra
+    2300118: Layer:LUZ RECTANGULAR (BLANCO)
+    2300120: Layer:LUZ RECTANGULAR (CRISTAL OPACO)
+    2300122: Layer:LUZ RECTANGULAR (LUZ AZUL CLARO)
+    2300124: Layer:LUZ REDONDA (BLANCO)
+    2300126: Layer:LUZ REDONDA (CRISTAL)
+    2300128: Layer:MADERA EXTERIOR
+    2300130: Layer:Manillar ventana
+    2300132: Layer:Manillas y tornillos armarios
+    2300134: Layer:Marco exterior 1
+    2300136: Layer:Marco interior
+    2300138: Layer:METALICO
+    2300140: Layer:METALICO EXTERNO
+    2300142: Layer:Muro Exterior
+    2300144: Layer:Muro Interior
+    2300146: Layer:PANELES
+    2300148: "Layer:PANELES BA\xD1O"
+    2300150: "Layer:PARED BA\xD1O 1"
+    2300152: "Layer:PARED BA\xD1O 2"
+    2300154: "Layer:PARED BA\xD1O 3"
+    2300156: "Layer:PARED BA\xD1O 4"
+    2300158: "Layer:Pared ba\xF1o partes peque\xF1as"
+    2300160: Layer:PARED CEMENTO
+    2300162: Layer:PARED CEMENTO (HUECO ESCALERAS)
+    2300164: "Layer:PARED CEMENTO BA\xD1O"
+    2300166: Layer:Pared cemento remates (horizontal)
+    2300168: Layer:Pared cemento remates (vertical)
+    2300170: Layer:PARED NORMAL
+    2300172: "Layer:PARED NORMAL 2\xBA PLANTA"
+    2300174: Layer:POMOS PUERTA
+    2300176: Layer:POMOS PUERTA 1
+    2300178: Layer:PUERTA
+    2300180: Layer:Puerta de emergencia parte gris
+    2300182: Layer:Puerta de emergencia parte negra
+    2300184: Layer:Puerta emergencia parte roja
+    2300186: Layer:Puertas Metalicas
+    2300188: Layer:Radiador_MeshPart0
+    2300190: Layer:Radiador_MeshPart1
+    2300192: Layer:RODAPIE
+    2300194: Layer:Router
+    2300196: Layer:Router (luz verde)
+    2300198: Layer:Salida de aire parte blanca
+    2300200: Layer:Salida de aire parte negra
+    2300202: "Layer:Sof\xE1"
+    2300204: "Layer:Suelo Ba\xF1o"
+    2300206: Layer:Suelo escaleras 2
+    2300208: Layer:Suelo planta baja
+    2300210: Layer:Suelo primer pasillo
+    2300212: Layer:Suelo Pulido escaleras
+    2300214: Layer:Suelo Pulido parte grande
+    2300216: Layer:Suelo segundo pasillo
+    2300218: Layer:Suelo terraza
+    2300220: Layer:Tablero mesa
+    2300222: "Layer:Techo 2\xBA planta"
+    2300224: "Layer:Techo ba\xF1o"
+    2300226: Layer:Techo primer pasillo
+    2300228: Layer:Techo segundo pasillo
+    2300230: Layer:Timbre bomberos parte blanca
+    2300232: Layer:Timbre bomberos parte negra
+    2300234: Layer:Timbre Bomberos parte roja
+    2300236: Layer:ztornillos paneles
+    3300000: Layer:Armario
+    3300002: Layer:Ascensor (botones)
+    3300004: "Layer:Ascensor (Fondo n\xFAmero)"
+    3300006: Layer:Ascensor (numero)
+    3300008: Layer:Ascensor 1
+    3300010: Layer:Barandilla
+    3300012: Layer:Bisagra
+    3300014: Layer:CajaElectricidad cristal
+    3300016: Layer:CajaElectricidad parte amarilla
+    3300018: Layer:CajaElectricidad parte blanca
+    3300020: Layer:CajaElectricidad parte gris
+    3300022: Layer:CajaElectricidad parte gris 2
+    3300024: Layer:CajaElectricidad parte negra
+    3300026: Layer:CajaEnchufes parte blanca
+    3300028: Layer:CajaEnchufes parte gris
+    3300030: Layer:CajaEnchufes parte negra 1
+    3300032: Layer:CajaEnchufes parte roja
+    3300034: Layer:CajaManguera Cristal
+    3300036: Layer:CajaManguera parte amarilla
+    3300038: Layer:CajaManguera parte gris
+    3300040: Layer:CajaManguera parte negra
+    3300042: Layer:CajaManguera parte negra imagen
+    3300044: Layer:CajaManguera parte puerta plateado
+    3300046: Layer:CajaManguera parte roja
+    3300048: Layer:CARPINTERIA 1
+    3300050: Layer:CARPINTERIA 2
+    3300052: Layer:Cartel boca de incendios
+    3300054: Layer:Cartel extintor 1
+    3300056: Layer:Cartel pulsador
+    3300058: Layer:Cartel timbre
+    3300060: Layer:CONTRACHAPADO BANCOS (HORIZONTAL)
+    3300062: Layer:CONTRACHAPADO BANCOS (VERTICAL)
+    3300064: Layer:CONTRACHAPADO GRANDE
+    3300066: Layer:CONTRACHAPADO MEDIANO
+    3300068: Layer:CONTRACHAPADO MUY GRANDE
+    3300070: "Layer:CONTRACHAPADO PEQUE\xD1O"
+    3300072: Layer:CONTRACHAPADO REMATES
+    3300074: Layer:Controlador parte blanca
+    3300076: Layer:Controlador parte gris
+    3300078: Layer:Cristal
+    3300080: Layer:Cristal armario
+    3300082: Layer:Cristal opaco
+    3300084: Layer:Cristal opaco 1
+    3300086: Layer:Cristal opaco 2
+    3300088: Layer:Cristal puerta
+    3300090: Layer:Detector de humos
+    3300092: Layer:Detector de movimiento
+    3300094: Layer:Enchufe parte clara
+    3300096: Layer:Enchufe parte oscura
+    3300098: Layer:Escaleras
+    3300100: Layer:Escaleras abajo (cemento)
+    3300102: Layer:Extintor parte amarilla (anilla)
+    3300104: Layer:Extintor parte gris
+    3300106: Layer:Extintor parte negra
+    3300108: Layer:Extintor parte roja 1
+    3300110: Layer:Extintor parte verde
+    3300112: Layer:Lavamanos parte blanca
+    3300114: Layer:Lavamanos parte metalica
+    3300116: Layer:Lavamanos parte negra
+    3300118: Layer:LUZ RECTANGULAR (BLANCO)
+    3300120: Layer:LUZ RECTANGULAR (CRISTAL OPACO)
+    3300122: Layer:LUZ RECTANGULAR (LUZ AZUL CLARO)
+    3300124: Layer:LUZ REDONDA (BLANCO)
+    3300126: Layer:LUZ REDONDA (CRISTAL)
+    3300128: Layer:MADERA EXTERIOR
+    3300130: Layer:Manillar ventana
+    3300132: Layer:Manillas y tornillos armarios
+    3300134: Layer:Marco exterior 1
+    3300136: Layer:Marco interior
+    3300138: Layer:METALICO
+    3300140: Layer:METALICO EXTERNO
+    3300142: Layer:Muro Exterior
+    3300144: Layer:Muro Interior
+    3300146: Layer:PANELES
+    3300148: "Layer:PANELES BA\xD1O"
+    3300150: "Layer:PARED BA\xD1O 1"
+    3300152: "Layer:PARED BA\xD1O 2"
+    3300154: "Layer:PARED BA\xD1O 3"
+    3300156: "Layer:PARED BA\xD1O 4"
+    3300158: "Layer:Pared ba\xF1o partes peque\xF1as"
+    3300160: Layer:PARED CEMENTO
+    3300162: Layer:PARED CEMENTO (HUECO ESCALERAS)
+    3300164: "Layer:PARED CEMENTO BA\xD1O"
+    3300166: Layer:Pared cemento remates (horizontal)
+    3300168: Layer:Pared cemento remates (vertical)
+    3300170: Layer:PARED NORMAL
+    3300172: "Layer:PARED NORMAL 2\xBA PLANTA"
+    3300174: Layer:POMOS PUERTA
+    3300176: Layer:POMOS PUERTA 1
+    3300178: Layer:PUERTA
+    3300180: Layer:Puerta de emergencia parte gris
+    3300182: Layer:Puerta de emergencia parte negra
+    3300184: Layer:Puerta emergencia parte roja
+    3300186: Layer:Puertas Metalicas
+    3300188: Layer:Radiador_MeshPart0
+    3300190: Layer:Radiador_MeshPart1
+    3300192: Layer:RODAPIE
+    3300194: Layer:Router
+    3300196: Layer:Router (luz verde)
+    3300198: Layer:Salida de aire parte blanca
+    3300200: Layer:Salida de aire parte negra
+    3300202: "Layer:Sof\xE1"
+    3300204: "Layer:Suelo Ba\xF1o"
+    3300206: Layer:Suelo escaleras 2
+    3300208: Layer:Suelo planta baja
+    3300210: Layer:Suelo primer pasillo
+    3300212: Layer:Suelo Pulido escaleras
+    3300214: Layer:Suelo Pulido parte grande
+    3300216: Layer:Suelo segundo pasillo
+    3300218: Layer:Suelo terraza
+    3300220: Layer:Tablero mesa
+    3300222: "Layer:Techo 2\xBA planta"
+    3300224: "Layer:Techo ba\xF1o"
+    3300226: Layer:Techo primer pasillo
+    3300228: Layer:Techo segundo pasillo
+    3300230: Layer:Timbre bomberos parte blanca
+    3300232: Layer:Timbre bomberos parte negra
+    3300234: Layer:Timbre Bomberos parte roja
+    3300236: Layer:ztornillos paneles
+    4300000: Layer:PARED NORMAL
+    4300002: Layer:PARED CEMENTO
+    4300004: Layer:Barandilla
+    4300006: Layer:PARED CEMENTO (HUECO ESCALERAS)
+    4300008: Layer:CONTRACHAPADO MEDIANO
+    4300010: Layer:CONTRACHAPADO GRANDE
+    4300012: Layer:CONTRACHAPADO MUY GRANDE
+    4300014: Layer:Marco exterior
+    4300016: Layer:Marco interior
+    4300018: Layer:Bisagra
+    4300020: Layer:PUERTA
+    4300022: Layer:POMOS PUERTA
+    4300024: Layer:CARPINTERIA 1
+    4300026: "Layer:CONTRACHAPADO PEQUE\xD1O"
+    4300028: Layer:Cristal puerta
+    4300030: Layer:CARPINTERIA 2
+    4300032: Layer:Cristal opaco
+    4300034: Layer:Escaleras
+    4300036: Layer:Ascensor
+    4300038: "Layer:Ascensor (Fondo n\xFAmero)"
+    4300040: Layer:Ascensor (botones)
+    4300042: Layer:Puerta emergencia parte roja
+    4300044: Layer:Puerta de emergencia parte negra
+    4300046: Layer:Puerta de emergencia parte gris
+    4300048: Layer:CajaEnchufes parte blanca
+    4300050: Layer:CajaEnchufes parte negra
+    4300052: Layer:CajaEnchufes parte gris
+    4300054: Layer:CajaEnchufes parte roja
+    4300056: Layer:Radiador_MeshPart0
+    4300058: Layer:Radiador_MeshPart1
+    4300060: Layer:CajaManguera parte roja
+    4300062: Layer:CajaManguera parte puerta plateado
+    4300064: Layer:CajaManguera Cristal
+    4300066: Layer:CajaManguera parte negra
+    4300068: Layer:CajaManguera parte gris
+    4300070: Layer:CajaManguera parte negra imagen
+    4300072: Layer:Extintor parte roja
+    4300074: Layer:Extintor parte gris
+    4300076: Layer:Extintor parte negra
+    4300078: Layer:Extintor parte amarilla (anilla)
+    4300080: Layer:Extintor parte verde
+    4300082: Layer:Timbre Bomberos parte roja
+    4300084: Layer:Timbre bomberos parte blanca
+    4300086: Layer:Timbre bomberos parte negra
+    4300088: Layer:Cartel boca de incendios
+    4300090: Layer:Cartel extintor
+    4300092: Layer:Cartel pulsador
+    4300094: Layer:Cartel timbre
+    4300096: Layer:CajaManguera parte amarilla
+    4300098: Layer:Enchufe parte clara
+    4300100: Layer:Enchufe parte oscura
+    4300102: Layer:RODAPIE
+    4300104: Layer:CONTRACHAPADO BANCOS (HORIZONTAL)
+    4300106: "Layer:Suelo Ba\xF1o"
+    4300108: Layer:METALICO EXTERNO
+    4300110: Layer:Suelo segundo pasillo
+    4300112: Layer:CajaElectricidad parte blanca
+    4300114: Layer:CajaElectricidad parte gris 2
+    4300116: Layer:CajaElectricidad parte gris
+    4300118: Layer:CajaElectricidad parte negra
+    4300120: Layer:CajaElectricidad cristal
+    4300122: Layer:CajaElectricidad parte amarilla
+    4300124: Layer:Escaleras abajo (cemento)
+    4300126: Layer:Suelo escaleras 2
+    4300128: Layer:Suelo primer pasillo
+    4300130: Layer:Pared cemento remates (vertical)
+    4300132: Layer:Suelo terraza
+    4300134: Layer:MADERA EXTERIOR
+    4300136: Layer:Cristal opaco
+    4300138: Layer:Cristal
+    4300140: Layer:PANELES
+    4300142: Layer:ztornillos paneles
+    4300144: "Layer:PARED NORMAL 2\xBA PLANTA"
+    4300146: Layer:POMOS PUERTA
+    4300148: Layer:Puertas Metalicas
+    4300150: "Layer:Sof\xE1"
+    4300152: Layer:Tablero mesa
+    4300154: Layer:Armario
+    4300156: Layer:Cristal armario
+    4300158: Layer:Manillas y tornillos armarios
+    4300160: "Layer:Techo 2\xBA planta"
+    4300162: Layer:Muro Interior
+    4300164: Layer:Muro Exterior
+    4300166: Layer:Cristal opaco
+    4300168: Layer:Manillar ventana
+    4300170: Layer:Controlador parte blanca
+    4300172: Layer:Controlador parte gris
+    4300174: Layer:Techo primer pasillo
+    4300176: Layer:LUZ REDONDA (BLANCO)
+    4300178: Layer:LUZ REDONDA (CRISTAL)
+    4300180: Layer:LUZ RECTANGULAR (CRISTAL OPACO)
+    4300182: Layer:LUZ RECTANGULAR (BLANCO)
+    4300184: Layer:LUZ RECTANGULAR (LUZ AZUL CLARO)
+    4300186: Layer:Router
+    4300188: Layer:Router (luz verde)
+    4300190: Layer:Detector de humos
+    4300192: Layer:Detector de movimiento
+    4300194: Layer:CONTRACHAPADO REMATES
+    4300196: Layer:Techo segundo pasillo
+    4300198: "Layer:PARED CEMENTO BA\xD1O"
+    4300200: "Layer:PANELES BA\xD1O"
+    4300202: Layer:METALICO
+    4300204: "Layer:Techo ba\xF1o"
+    4300206: Layer:Ascensor (numero)
+    4300208: Layer:Pared cemento remates (horizontal)
+    4300210: Layer:Lavamanos parte metalica
+    4300212: Layer:Lavamanos parte blanca
+    4300214: Layer:Lavamanos parte negra
+    4300216: Layer:Salida de aire parte blanca
+    4300218: Layer:Salida de aire parte negra
+    4300220: Layer:Suelo Pulido parte grande
+    4300222: Layer:Suelo Pulido escaleras
+    4300224: "Layer:PARED BA\xD1O 2"
+    4300226: "Layer:Pared ba\xF1o partes peque\xF1as"
+    4300228: "Layer:PARED BA\xD1O 3"
+    4300230: "Layer:PARED BA\xD1O 4"
+    4300232: "Layer:PARED BA\xD1O 1"
+    4300234: Layer:CONTRACHAPADO BANCOS (VERTICAL)
+    4300236: Layer:Suelo planta baja
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

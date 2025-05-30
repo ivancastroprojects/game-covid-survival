@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scientist
+  - Enemy
+  - SavedPersons
+  - savedFifthPatient
+  - Syringe
+  - mainInterface
+  - note2
+  - note1
+  - NPCcams
+  - fourthpatient
+  - mainscientist
+  - guardscientist
+  - cameraFollow
+  - ButtonLimit
+  - mira
+  - ammoText
+  - GunCamera
+  - lluvia
+  - rayos
+  - descriptionQuest
+  - titleQuest
+  - Enemies
+  - Lights
+  - completed
+  - imageDamage
+  - conseguido
+  - descriptionQuestChallenge
+  - descriptionQuestExtra1
+  - descriptionQuestExtra2
+  - iconIncrement
+  - conseguidobutton1
+  - conseguidobutton2
+  - canvas
+  - chronometer
+  - finalposition
+  - MuzzleFlashOP
+  - EndSuccessGame
+  - nick
+  - director
+  - loading
+  - characters
+  - camPlayer
+  - video
+  - door
+  - doorOpen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

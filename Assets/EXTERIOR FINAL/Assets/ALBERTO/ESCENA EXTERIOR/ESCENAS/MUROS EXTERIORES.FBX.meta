@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: dce39e4c8b05ac145848a33d454b285d
+timeCreated: 1504094415
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Layer:CAJA MANGUERA (CRISTAL)
+    100002: Layer:CAJA MANGUERA (DORADO)
+    100004: Layer:CAJA MANGUERA (GRIS)
+    100006: Layer:CAJA MANGUERA (NEGRO)
+    100008: Layer:CAJA MANGUERA (ROJO)
+    100010: Layer:CARTEL CAJA MANGUERA
+    100012: Layer:CARTEL EXTINTOR
+    100014: Layer:ESCALERAS (Granito) DELANTERO
+    100016: Layer:EXTINTOR (GRIS)
+    100018: Layer:EXTINTOR (NEGRO)
+    100020: Layer:EXTINTOR (ROJO)
+    100022: Layer:EXTINTOR (ROJO) 1
+    100024: Layer:EXTINTOR (VERDE)
+    100026: Layer:HORMIGON ESCALERAS
+    100028: Layer:MANILLAS (ALUMINIO)
+    100030: Layer:MANILLAS (ALUMINIO) 1
+    100032: Layer:MARCO PUERTAS
+    100034: Layer:MURO EXT (Marron Claro) 1
+    100036: Layer:MURO EXT (Marron Claro) 10
+    100038: Layer:MURO EXT (Marron Claro) 11
+    100040: Layer:MURO EXT (Marron Claro) 12
+    100042: Layer:MURO EXT (Marron Claro) 13
+    100044: Layer:MURO EXT (Marron Claro) 14
+    100046: Layer:MURO EXT (Marron Claro) 15
+    100048: Layer:MURO EXT (Marron Claro) 16
+    100050: Layer:MURO EXT (Marron Claro) 17
+    100052: Layer:MURO EXT (Marron Claro) 18
+    100054: Layer:MURO EXT (Marron Claro) 19
+    100056: Layer:MURO EXT (Marron Claro) 2
+    100058: Layer:MURO EXT (Marron Claro) 20
+    100060: Layer:MURO EXT (Marron Claro) 21
+    100062: Layer:MURO EXT (Marron Claro) 3
+    100064: Layer:MURO EXT (Marron Claro) 4
+    100066: Layer:MURO EXT (Marron Claro) 5
+    100068: Layer:MURO EXT (Marron Claro) 6
+    100070: Layer:MURO EXT (Marron Claro) 7
+    100072: Layer:MURO EXT (Marron Claro) 8
+    100074: Layer:MURO EXT (Marron Claro) 9
+    100076: Layer:MURO EXT (Marron Oscuro) 1
+    100078: Layer:MURO EXT (Marron Oscuro) 10
+    100080: Layer:MURO EXT (Marron Oscuro) 11
+    100082: Layer:MURO EXT (Marron Oscuro) 12
+    100084: Layer:MURO EXT (Marron Oscuro) 13
+    100086: Layer:MURO EXT (Marron Oscuro) 14
+    100088: Layer:MURO EXT (Marron Oscuro) 15
+    100090: Layer:MURO EXT (Marron Oscuro) 16
+    100092: Layer:MURO EXT (Marron Oscuro) 2
+    100094: Layer:MURO EXT (Marron Oscuro) 2 1
+    100096: Layer:MURO EXT (Marron Oscuro) 2 2
+    100098: Layer:MURO EXT (Marron Oscuro) 3
+    100100: Layer:MURO EXT (Marron Oscuro) 4
+    100102: Layer:MURO EXT (Marron Oscuro) 5
+    100104: Layer:MURO EXT (Marron Oscuro) 6
+    100106: Layer:MURO EXT (Marron Oscuro) 7
+    100108: Layer:MURO EXT (Marron Oscuro) 8
+    100110: Layer:MURO EXT (Marron Oscuro) 9
+    100112: Layer:PUERTAS AZULES
+    100114: Layer:SUELO (SEGUNDA ESCENA)
+    100116: //RootNode
+    400000: Layer:CAJA MANGUERA (CRISTAL)
+    400002: Layer:CAJA MANGUERA (DORADO)
+    400004: Layer:CAJA MANGUERA (GRIS)
+    400006: Layer:CAJA MANGUERA (NEGRO)
+    400008: Layer:CAJA MANGUERA (ROJO)
+    400010: Layer:CARTEL CAJA MANGUERA
+    400012: Layer:CARTEL EXTINTOR
+    400014: Layer:ESCALERAS (Granito) DELANTERO
+    400016: Layer:EXTINTOR (GRIS)
+    400018: Layer:EXTINTOR (NEGRO)
+    400020: Layer:EXTINTOR (ROJO)
+    400022: Layer:EXTINTOR (ROJO) 1
+    400024: Layer:EXTINTOR (VERDE)
+    400026: Layer:HORMIGON ESCALERAS
+    400028: Layer:MANILLAS (ALUMINIO)
+    400030: Layer:MANILLAS (ALUMINIO) 1
+    400032: Layer:MARCO PUERTAS
+    400034: Layer:MURO EXT (Marron Claro) 1
+    400036: Layer:MURO EXT (Marron Claro) 10
+    400038: Layer:MURO EXT (Marron Claro) 11
+    400040: Layer:MURO EXT (Marron Claro) 12
+    400042: Layer:MURO EXT (Marron Claro) 13
+    400044: Layer:MURO EXT (Marron Claro) 14
+    400046: Layer:MURO EXT (Marron Claro) 15
+    400048: Layer:MURO EXT (Marron Claro) 16
+    400050: Layer:MURO EXT (Marron Claro) 17
+    400052: Layer:MURO EXT (Marron Claro) 18
+    400054: Layer:MURO EXT (Marron Claro) 19
+    400056: Layer:MURO EXT (Marron Claro) 2
+    400058: Layer:MURO EXT (Marron Claro) 20
+    400060: Layer:MURO EXT (Marron Claro) 21
+    400062: Layer:MURO EXT (Marron Claro) 3
+    400064: Layer:MURO EXT (Marron Claro) 4
+    400066: Layer:MURO EXT (Marron Claro) 5
+    400068: Layer:MURO EXT (Marron Claro) 6
+    400070: Layer:MURO EXT (Marron Claro) 7
+    400072: Layer:MURO EXT (Marron Claro) 8
+    400074: Layer:MURO EXT (Marron Claro) 9
+    400076: Layer:MURO EXT (Marron Oscuro) 1
+    400078: Layer:MURO EXT (Marron Oscuro) 10
+    400080: Layer:MURO EXT (Marron Oscuro) 11
+    400082: Layer:MURO EXT (Marron Oscuro) 12
+    400084: Layer:MURO EXT (Marron Oscuro) 13
+    400086: Layer:MURO EXT (Marron Oscuro) 14
+    400088: Layer:MURO EXT (Marron Oscuro) 15
+    400090: Layer:MURO EXT (Marron Oscuro) 16
+    400092: Layer:MURO EXT (Marron Oscuro) 2
+    400094: Layer:MURO EXT (Marron Oscuro) 2 1
+    400096: Layer:MURO EXT (Marron Oscuro) 2 2
+    400098: Layer:MURO EXT (Marron Oscuro) 3
+    400100: Layer:MURO EXT (Marron Oscuro) 4
+    400102: Layer:MURO EXT (Marron Oscuro) 5
+    400104: Layer:MURO EXT (Marron Oscuro) 6
+    400106: Layer:MURO EXT (Marron Oscuro) 7
+    400108: Layer:MURO EXT (Marron Oscuro) 8
+    400110: Layer:MURO EXT (Marron Oscuro) 9
+    400112: Layer:PUERTAS AZULES
+    400114: Layer:SUELO (SEGUNDA ESCENA)
+    400116: //RootNode
+    2300000: Layer:CAJA MANGUERA (CRISTAL)
+    2300002: Layer:CAJA MANGUERA (DORADO)
+    2300004: Layer:CAJA MANGUERA (GRIS)
+    2300006: Layer:CAJA MANGUERA (NEGRO)
+    2300008: Layer:CAJA MANGUERA (ROJO)
+    2300010: Layer:CARTEL CAJA MANGUERA
+    2300012: Layer:CARTEL EXTINTOR
+    2300014: Layer:ESCALERAS (Granito) DELANTERO
+    2300016: Layer:EXTINTOR (GRIS)
+    2300018: Layer:EXTINTOR (NEGRO)
+    2300020: Layer:EXTINTOR (ROJO) 1
+    2300022: Layer:EXTINTOR (VERDE)
+    2300024: Layer:HORMIGON ESCALERAS
+    2300026: Layer:MANILLAS (ALUMINIO)
+    2300028: Layer:MANILLAS (ALUMINIO) 1
+    2300030: Layer:MARCO PUERTAS
+    2300032: Layer:MURO EXT (Marron Claro) 1
+    2300034: Layer:MURO EXT (Marron Claro) 10
+    2300036: Layer:MURO EXT (Marron Claro) 11
+    2300038: Layer:MURO EXT (Marron Claro) 12
+    2300040: Layer:MURO EXT (Marron Claro) 13
+    2300042: Layer:MURO EXT (Marron Claro) 14
+    2300044: Layer:MURO EXT (Marron Claro) 15
+    2300046: Layer:MURO EXT (Marron Claro) 16
+    2300048: Layer:MURO EXT (Marron Claro) 17
+    2300050: Layer:MURO EXT (Marron Claro) 18
+    2300052: Layer:MURO EXT (Marron Claro) 19
+    2300054: Layer:MURO EXT (Marron Claro) 2
+    2300056: Layer:MURO EXT (Marron Claro) 20
+    2300058: Layer:MURO EXT (Marron Claro) 21
+    2300060: Layer:MURO EXT (Marron Claro) 3
+    2300062: Layer:MURO EXT (Marron Claro) 4
+    2300064: Layer:MURO EXT (Marron Claro) 5
+    2300066: Layer:MURO EXT (Marron Claro) 6
+    2300068: Layer:MURO EXT (Marron Claro) 7
+    2300070: Layer:MURO EXT (Marron Claro) 8
+    2300072: Layer:MURO EXT (Marron Claro) 9
+    2300074: Layer:MURO EXT (Marron Oscuro) 1
+    2300076: Layer:MURO EXT (Marron Oscuro) 10
+    2300078: Layer:MURO EXT (Marron Oscuro) 11
+    2300080: Layer:MURO EXT (Marron Oscuro) 12
+    2300082: Layer:MURO EXT (Marron Oscuro) 13
+    2300084: Layer:MURO EXT (Marron Oscuro) 14
+    2300086: Layer:MURO EXT (Marron Oscuro) 15
+    2300088: Layer:MURO EXT (Marron Oscuro) 16
+    2300090: Layer:MURO EXT (Marron Oscuro) 2
+    2300092: Layer:MURO EXT (Marron Oscuro) 2 1
+    2300094: Layer:MURO EXT (Marron Oscuro) 2 2
+    2300096: Layer:MURO EXT (Marron Oscuro) 3
+    2300098: Layer:MURO EXT (Marron Oscuro) 4
+    2300100: Layer:MURO EXT (Marron Oscuro) 5
+    2300102: Layer:MURO EXT (Marron Oscuro) 6
+    2300104: Layer:MURO EXT (Marron Oscuro) 7
+    2300106: Layer:MURO EXT (Marron Oscuro) 8
+    2300108: Layer:MURO EXT (Marron Oscuro) 9
+    2300110: Layer:PUERTAS AZULES
+    2300112: Layer:SUELO (SEGUNDA ESCENA)
+    3300000: Layer:CAJA MANGUERA (CRISTAL)
+    3300002: Layer:CAJA MANGUERA (DORADO)
+    3300004: Layer:CAJA MANGUERA (GRIS)
+    3300006: Layer:CAJA MANGUERA (NEGRO)
+    3300008: Layer:CAJA MANGUERA (ROJO)
+    3300010: Layer:CARTEL CAJA MANGUERA
+    3300012: Layer:CARTEL EXTINTOR
+    3300014: Layer:ESCALERAS (Granito) DELANTERO
+    3300016: Layer:EXTINTOR (GRIS)
+    3300018: Layer:EXTINTOR (NEGRO)
+    3300020: Layer:EXTINTOR (ROJO) 1
+    3300022: Layer:EXTINTOR (VERDE)
+    3300024: Layer:HORMIGON ESCALERAS
+    3300026: Layer:MANILLAS (ALUMINIO)
+    3300028: Layer:MANILLAS (ALUMINIO) 1
+    3300030: Layer:MARCO PUERTAS
+    3300032: Layer:MURO EXT (Marron Claro) 1
+    3300034: Layer:MURO EXT (Marron Claro) 10
+    3300036: Layer:MURO EXT (Marron Claro) 11
+    3300038: Layer:MURO EXT (Marron Claro) 12
+    3300040: Layer:MURO EXT (Marron Claro) 13
+    3300042: Layer:MURO EXT (Marron Claro) 14
+    3300044: Layer:MURO EXT (Marron Claro) 15
+    3300046: Layer:MURO EXT (Marron Claro) 16
+    3300048: Layer:MURO EXT (Marron Claro) 17
+    3300050: Layer:MURO EXT (Marron Claro) 18
+    3300052: Layer:MURO EXT (Marron Claro) 19
+    3300054: Layer:MURO EXT (Marron Claro) 2
+    3300056: Layer:MURO EXT (Marron Claro) 20
+    3300058: Layer:MURO EXT (Marron Claro) 21
+    3300060: Layer:MURO EXT (Marron Claro) 3
+    3300062: Layer:MURO EXT (Marron Claro) 4
+    3300064: Layer:MURO EXT (Marron Claro) 5
+    3300066: Layer:MURO EXT (Marron Claro) 6
+    3300068: Layer:MURO EXT (Marron Claro) 7
+    3300070: Layer:MURO EXT (Marron Claro) 8
+    3300072: Layer:MURO EXT (Marron Claro) 9
+    3300074: Layer:MURO EXT (Marron Oscuro) 1
+    3300076: Layer:MURO EXT (Marron Oscuro) 10
+    3300078: Layer:MURO EXT (Marron Oscuro) 11
+    3300080: Layer:MURO EXT (Marron Oscuro) 12
+    3300082: Layer:MURO EXT (Marron Oscuro) 13
+    3300084: Layer:MURO EXT (Marron Oscuro) 14
+    3300086: Layer:MURO EXT (Marron Oscuro) 15
+    3300088: Layer:MURO EXT (Marron Oscuro) 16
+    3300090: Layer:MURO EXT (Marron Oscuro) 2
+    3300092: Layer:MURO EXT (Marron Oscuro) 2 1
+    3300094: Layer:MURO EXT (Marron Oscuro) 2 2
+    3300096: Layer:MURO EXT (Marron Oscuro) 3
+    3300098: Layer:MURO EXT (Marron Oscuro) 4
+    3300100: Layer:MURO EXT (Marron Oscuro) 5
+    3300102: Layer:MURO EXT (Marron Oscuro) 6
+    3300104: Layer:MURO EXT (Marron Oscuro) 7
+    3300106: Layer:MURO EXT (Marron Oscuro) 8
+    3300108: Layer:MURO EXT (Marron Oscuro) 9
+    3300110: Layer:PUERTAS AZULES
+    3300112: Layer:SUELO (SEGUNDA ESCENA)
+    4300000: Layer:MURO EXT (Marron Oscuro) 2
+    4300002: Layer:MURO EXT (Marron Oscuro) 2
+    4300004: Layer:MURO EXT (Marron Oscuro) 6
+    4300006: Layer:MURO EXT (Marron Oscuro) 2
+    4300008: Layer:MURO EXT (Marron Oscuro) 9
+    4300010: Layer:MURO EXT (Marron Oscuro) 15
+    4300012: Layer:MURO EXT (Marron Claro) 13
+    4300014: Layer:MURO EXT (Marron Claro) 12
+    4300016: Layer:MURO EXT (Marron Claro) 11
+    4300018: Layer:MURO EXT (Marron Claro) 10
+    4300020: Layer:MURO EXT (Marron Claro) 6
+    4300022: Layer:MURO EXT (Marron Claro) 1
+    4300024: Layer:MANILLAS (ALUMINIO)
+    4300026: Layer:MURO EXT (Marron Claro) 2
+    4300028: Layer:SUELO (SEGUNDA ESCENA)
+    4300030: Layer:MURO EXT (Marron Oscuro) 1
+    4300032: Layer:MURO EXT (Marron Claro) 3
+    4300034: Layer:MURO EXT (Marron Claro) 4
+    4300036: Layer:MURO EXT (Marron Claro) 5
+    4300038: Layer:MURO EXT (Marron Claro) 8
+    4300040: Layer:MURO EXT (Marron Claro) 9
+    4300042: Layer:MURO EXT (Marron Claro) 7
+    4300044: Layer:MURO EXT (Marron Claro) 15
+    4300046: Layer:MURO EXT (Marron Claro) 14
+    4300048: Layer:MURO EXT (Marron Claro) 16
+    4300050: Layer:MURO EXT (Marron Oscuro) 16
+    4300052: Layer:MURO EXT (Marron Oscuro) 14
+    4300054: Layer:MURO EXT (Marron Oscuro) 10
+    4300056: Layer:PUERTAS AZULES
+    4300058: Layer:MANILLAS (ALUMINIO)
+    4300060: Layer:MARCO PUERTAS
+    4300062: Layer:CAJA MANGUERA (ROJO)
+    4300064: Layer:CAJA MANGUERA (GRIS)
+    4300066: Layer:CAJA MANGUERA (CRISTAL)
+    4300068: Layer:CAJA MANGUERA (NEGRO)
+    4300070: Layer:CARTEL CAJA MANGUERA
+    4300072: Layer:EXTINTOR (ROJO)
+    4300074: Layer:EXTINTOR (GRIS)
+    4300076: Layer:EXTINTOR (NEGRO)
+    4300078: Layer:EXTINTOR (VERDE)
+    4300080: Layer:CAJA MANGUERA (DORADO)
+    4300082: Layer:CARTEL EXTINTOR
+    4300084: Layer:ESCALERAS (Granito) DELANTERO
+    4300086: Layer:HORMIGON ESCALERAS
+    4300088: Layer:MURO EXT (Marron Oscuro) 13
+    4300090: Layer:MURO EXT (Marron Oscuro) 12
+    4300092: Layer:MURO EXT (Marron Oscuro) 11
+    4300094: Layer:MURO EXT (Marron Oscuro) 5
+    4300096: Layer:MURO EXT (Marron Oscuro) 7
+    4300098: Layer:MURO EXT (Marron Oscuro) 8
+    4300100: Layer:MURO EXT (Marron Oscuro) 3
+    4300102: Layer:MURO EXT (Marron Oscuro) 4
+    4300104: Layer:MURO EXT (Marron Claro) 17
+    4300106: Layer:MURO EXT (Marron Claro) 18
+    4300108: Layer:MURO EXT (Marron Claro) 19
+    4300110: Layer:MURO EXT (Marron Claro) 20
+    4300112: Layer:MURO EXT (Marron Claro) 21
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

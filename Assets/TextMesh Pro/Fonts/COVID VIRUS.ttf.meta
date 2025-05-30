@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3a0153c42289c34468f4a5c43b3cf896
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: COVID VIRUS
+  fontNames:
+  - COVID VIRUS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a5641042d5e54da4489a3833a7a5c1af, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

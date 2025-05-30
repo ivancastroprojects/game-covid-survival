@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e26a8c5a3aebd224e88bdfc9d06d6a1c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Letters for Learners Lined
+  fontNames:
+  - Letters for Learners Lined
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a7dc04ea0b97c744fbf9062ed0899059, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

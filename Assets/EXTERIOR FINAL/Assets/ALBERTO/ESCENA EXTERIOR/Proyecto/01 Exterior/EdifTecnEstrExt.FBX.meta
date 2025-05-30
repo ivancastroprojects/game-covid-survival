@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 9097080395d9c443584138b95bf781ae
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer:01 Cornisa
+    100004: Layer:01 Cornisa 1
+    100006: Layer:01 Cornisa 2
+    100008: Layer:01 Cornisa 3
+    100010: Layer:01 Cornisa 4
+    100012: Layer:01 Ladrillo
+    100014: Layer:01 Ladrillo 1
+    100016: Layer:01 Ladrillo 2
+    100018: Layer:01 Ladrillo 3
+    100020: Layer:01 Ladrillo 4
+    100022: Layer:01 Ladrillo 5
+    100024: Layer:01 Ladrillo 6
+    100026: Layer:01 Ladrillo 7
+    100028: Layer:01 MuroGris
+    100030: Layer:01 MuroGris 1
+    100032: Layer:01 MuroGris 2
+    100034: Layer:02 BarandillaExt
+    100036: Layer:02 EscalerasExt
+    100038: Layer:02 EscalerasExt 1
+    100040: Layer:02 EscalerasExt 2
+    100042: Layer:02 Ladrillo
+    100044: Layer:02 Suelo
+    100046: Layer:02 Sueloblanco
+    100048: Layer:02 techo
+    100050: Layer:02 techo 1
+    100052: Layer:02 techo 2
+    100054: Layer:02 techo 3
+    100056: Layer:05 UnionBarandilla
+    100058: Layer:05 UnionColumna
+    100060: Layer:05 UnionColumna 1
+    100062: Layer:05 UnionColumna 2
+    100064: Layer:05 UnionColumna 3
+    100066: Layer:05 UnionCristal
+    100068: Layer:05 UnionCubierta
+    100070: Layer:05 UnionCubierta 1
+    100072: Layer:05 UnionCubierta2
+    100074: Layer:05 UnionSuelo
+    100076: Layer:05 UnionSuelo 1
+    100078: Layer:07 CubBordechapa
+    100080: Layer:07 Cubierta
+    100082: Layer:07 Cubierta 1
+    100084: Layer:07 Cubierta 2
+    100086: Layer:07 Cubierta 3
+    100088: Layer:07 Cubierta 4
+    100090: Layer:15 escayola
+    100092: Layer:15 escayola 1
+    100094: Layer:15 escayola 2
+    100096: Layer:16 columnas
+    100098: Layer:20 ladrillo4
+    100100: Layer:22 TechoLadrilloEntr2
+    100102: Layer:23 CubChapa
+    100104: Layer:23 Ladrillo2y3
+    100106: Layer:23 Ladrillo2y3 1
+    100108: Layer:23 Ladrillo2y3 10
+    100110: Layer:23 Ladrillo2y3 11
+    100112: Layer:23 Ladrillo2y3 12
+    100114: Layer:23 Ladrillo2y3 13
+    100116: Layer:23 Ladrillo2y3 14
+    100118: Layer:23 Ladrillo2y3 15
+    100120: Layer:23 Ladrillo2y3 16
+    100122: Layer:23 Ladrillo2y3 17
+    100124: Layer:23 Ladrillo2y3 18
+    100126: Layer:23 Ladrillo2y3 19
+    100128: Layer:23 Ladrillo2y3 2
+    100130: Layer:23 Ladrillo2y3 20
+    100132: Layer:23 Ladrillo2y3 21
+    100134: Layer:23 Ladrillo2y3 22
+    100136: Layer:23 Ladrillo2y3 23
+    100138: Layer:23 Ladrillo2y3 24
+    100140: Layer:23 Ladrillo2y3 25
+    100142: Layer:23 Ladrillo2y3 26
+    100144: Layer:23 Ladrillo2y3 27
+    100146: Layer:23 Ladrillo2y3 28
+    100148: Layer:23 Ladrillo2y3 3
+    100150: Layer:23 Ladrillo2y3 4
+    100152: Layer:23 Ladrillo2y3 5
+    100154: Layer:23 Ladrillo2y3 6
+    100156: Layer:23 Ladrillo2y3 7
+    100158: Layer:23 Ladrillo2y3 8
+    100160: Layer:23 Ladrillo2y3 9
+    100162: Layer:24 Cubierta4
+    100164: Layer:25 VentCristal
+    100166: Layer:26 VentManilla
+    100168: Layer:27 VentMarco
+    100170: Layer:27 VentMarco 1
+    100172: Layer:29 Cubierta2y3
+    100174: Layer:29 Cubierta2y3 1
+    100176: Layer:29 Cubierta2y3 2
+    100178: Layer:29 Cubierta2y3 3
+    100180: Layer:29 Cubierta2y3 4
+    100182: Layer:30 ColumnaExt
+    400000: //RootNode
+    400002: Layer:01 Cornisa
+    400004: Layer:01 Cornisa 1
+    400006: Layer:01 Cornisa 2
+    400008: Layer:01 Cornisa 3
+    400010: Layer:01 Cornisa 4
+    400012: Layer:01 Ladrillo
+    400014: Layer:01 Ladrillo 1
+    400016: Layer:01 Ladrillo 2
+    400018: Layer:01 Ladrillo 3
+    400020: Layer:01 Ladrillo 4
+    400022: Layer:01 Ladrillo 5
+    400024: Layer:01 Ladrillo 6
+    400026: Layer:01 Ladrillo 7
+    400028: Layer:01 MuroGris
+    400030: Layer:01 MuroGris 1
+    400032: Layer:01 MuroGris 2
+    400034: Layer:02 BarandillaExt
+    400036: Layer:02 EscalerasExt
+    400038: Layer:02 EscalerasExt 1
+    400040: Layer:02 EscalerasExt 2
+    400042: Layer:02 Ladrillo
+    400044: Layer:02 Suelo
+    400046: Layer:02 Sueloblanco
+    400048: Layer:02 techo
+    400050: Layer:02 techo 1
+    400052: Layer:02 techo 2
+    400054: Layer:02 techo 3
+    400056: Layer:05 UnionBarandilla
+    400058: Layer:05 UnionColumna
+    400060: Layer:05 UnionColumna 1
+    400062: Layer:05 UnionColumna 2
+    400064: Layer:05 UnionColumna 3
+    400066: Layer:05 UnionCristal
+    400068: Layer:05 UnionCubierta
+    400070: Layer:05 UnionCubierta 1
+    400072: Layer:05 UnionCubierta2
+    400074: Layer:05 UnionSuelo
+    400076: Layer:05 UnionSuelo 1
+    400078: Layer:07 CubBordechapa
+    400080: Layer:07 Cubierta
+    400082: Layer:07 Cubierta 1
+    400084: Layer:07 Cubierta 2
+    400086: Layer:07 Cubierta 3
+    400088: Layer:07 Cubierta 4
+    400090: Layer:15 escayola
+    400092: Layer:15 escayola 1
+    400094: Layer:15 escayola 2
+    400096: Layer:16 columnas
+    400098: Layer:20 ladrillo4
+    400100: Layer:22 TechoLadrilloEntr2
+    400102: Layer:23 CubChapa
+    400104: Layer:23 Ladrillo2y3
+    400106: Layer:23 Ladrillo2y3 1
+    400108: Layer:23 Ladrillo2y3 10
+    400110: Layer:23 Ladrillo2y3 11
+    400112: Layer:23 Ladrillo2y3 12
+    400114: Layer:23 Ladrillo2y3 13
+    400116: Layer:23 Ladrillo2y3 14
+    400118: Layer:23 Ladrillo2y3 15
+    400120: Layer:23 Ladrillo2y3 16
+    400122: Layer:23 Ladrillo2y3 17
+    400124: Layer:23 Ladrillo2y3 18
+    400126: Layer:23 Ladrillo2y3 19
+    400128: Layer:23 Ladrillo2y3 2
+    400130: Layer:23 Ladrillo2y3 20
+    400132: Layer:23 Ladrillo2y3 21
+    400134: Layer:23 Ladrillo2y3 22
+    400136: Layer:23 Ladrillo2y3 23
+    400138: Layer:23 Ladrillo2y3 24
+    400140: Layer:23 Ladrillo2y3 25
+    400142: Layer:23 Ladrillo2y3 26
+    400144: Layer:23 Ladrillo2y3 27
+    400146: Layer:23 Ladrillo2y3 28
+    400148: Layer:23 Ladrillo2y3 3
+    400150: Layer:23 Ladrillo2y3 4
+    400152: Layer:23 Ladrillo2y3 5
+    400154: Layer:23 Ladrillo2y3 6
+    400156: Layer:23 Ladrillo2y3 7
+    400158: Layer:23 Ladrillo2y3 8
+    400160: Layer:23 Ladrillo2y3 9
+    400162: Layer:24 Cubierta4
+    400164: Layer:25 VentCristal
+    400166: Layer:26 VentManilla
+    400168: Layer:27 VentMarco
+    400170: Layer:27 VentMarco 1
+    400172: Layer:29 Cubierta2y3
+    400174: Layer:29 Cubierta2y3 1
+    400176: Layer:29 Cubierta2y3 2
+    400178: Layer:29 Cubierta2y3 3
+    400180: Layer:29 Cubierta2y3 4
+    400182: Layer:30 ColumnaExt
+    2300000: Layer:01 Cornisa
+    2300002: Layer:01 Cornisa 1
+    2300004: Layer:01 Cornisa 2
+    2300006: Layer:01 Cornisa 3
+    2300008: Layer:01 Cornisa 4
+    2300010: Layer:01 Ladrillo
+    2300012: Layer:01 Ladrillo 1
+    2300014: Layer:01 Ladrillo 2
+    2300016: Layer:01 Ladrillo 3
+    2300018: Layer:01 Ladrillo 4
+    2300020: Layer:01 Ladrillo 5
+    2300022: Layer:01 Ladrillo 6
+    2300024: Layer:01 Ladrillo 7
+    2300026: Layer:01 MuroGris
+    2300028: Layer:01 MuroGris 1
+    2300030: Layer:01 MuroGris 2
+    2300032: Layer:02 BarandillaExt
+    2300034: Layer:02 EscalerasExt
+    2300036: Layer:02 EscalerasExt 1
+    2300038: Layer:02 EscalerasExt 2
+    2300040: Layer:02 Ladrillo
+    2300042: Layer:02 Suelo
+    2300044: Layer:02 Sueloblanco
+    2300046: Layer:02 techo
+    2300048: Layer:02 techo 1
+    2300050: Layer:02 techo 2
+    2300052: Layer:02 techo 3
+    2300054: Layer:05 UnionBarandilla
+    2300056: Layer:05 UnionColumna
+    2300058: Layer:05 UnionColumna 1
+    2300060: Layer:05 UnionColumna 2
+    2300062: Layer:05 UnionColumna 3
+    2300064: Layer:05 UnionCristal
+    2300066: Layer:05 UnionCubierta
+    2300068: Layer:05 UnionCubierta 1
+    2300070: Layer:05 UnionCubierta2
+    2300072: Layer:05 UnionSuelo
+    2300074: Layer:05 UnionSuelo 1
+    2300076: Layer:07 CubBordechapa
+    2300078: Layer:07 Cubierta
+    2300080: Layer:07 Cubierta 1
+    2300082: Layer:07 Cubierta 2
+    2300084: Layer:07 Cubierta 3
+    2300086: Layer:07 Cubierta 4
+    2300088: Layer:15 escayola
+    2300090: Layer:15 escayola 1
+    2300092: Layer:15 escayola 2
+    2300094: Layer:16 columnas
+    2300096: Layer:20 ladrillo4
+    2300098: Layer:22 TechoLadrilloEntr2
+    2300100: Layer:23 CubChapa
+    2300102: Layer:23 Ladrillo2y3
+    2300104: Layer:23 Ladrillo2y3 1
+    2300106: Layer:23 Ladrillo2y3 10
+    2300108: Layer:23 Ladrillo2y3 11
+    2300110: Layer:23 Ladrillo2y3 12
+    2300112: Layer:23 Ladrillo2y3 13
+    2300114: Layer:23 Ladrillo2y3 14
+    2300116: Layer:23 Ladrillo2y3 15
+    2300118: Layer:23 Ladrillo2y3 16
+    2300120: Layer:23 Ladrillo2y3 17
+    2300122: Layer:23 Ladrillo2y3 18
+    2300124: Layer:23 Ladrillo2y3 19
+    2300126: Layer:23 Ladrillo2y3 2
+    2300128: Layer:23 Ladrillo2y3 20
+    2300130: Layer:23 Ladrillo2y3 21
+    2300132: Layer:23 Ladrillo2y3 22
+    2300134: Layer:23 Ladrillo2y3 23
+    2300136: Layer:23 Ladrillo2y3 24
+    2300138: Layer:23 Ladrillo2y3 25
+    2300140: Layer:23 Ladrillo2y3 26
+    2300142: Layer:23 Ladrillo2y3 27
+    2300144: Layer:23 Ladrillo2y3 28
+    2300146: Layer:23 Ladrillo2y3 3
+    2300148: Layer:23 Ladrillo2y3 4
+    2300150: Layer:23 Ladrillo2y3 5
+    2300152: Layer:23 Ladrillo2y3 6
+    2300154: Layer:23 Ladrillo2y3 7
+    2300156: Layer:23 Ladrillo2y3 8
+    2300158: Layer:23 Ladrillo2y3 9
+    2300160: Layer:24 Cubierta4
+    2300162: Layer:25 VentCristal
+    2300164: Layer:26 VentManilla
+    2300166: Layer:27 VentMarco
+    2300168: Layer:27 VentMarco 1
+    2300170: Layer:29 Cubierta2y3
+    2300172: Layer:29 Cubierta2y3 1
+    2300174: Layer:29 Cubierta2y3 2
+    2300176: Layer:29 Cubierta2y3 3
+    2300178: Layer:29 Cubierta2y3 4
+    2300180: Layer:30 ColumnaExt
+    3300000: Layer:01 Cornisa
+    3300002: Layer:01 Cornisa 1
+    3300004: Layer:01 Cornisa 2
+    3300006: Layer:01 Cornisa 3
+    3300008: Layer:01 Cornisa 4
+    3300010: Layer:01 Ladrillo
+    3300012: Layer:01 Ladrillo 1
+    3300014: Layer:01 Ladrillo 2
+    3300016: Layer:01 Ladrillo 3
+    3300018: Layer:01 Ladrillo 4
+    3300020: Layer:01 Ladrillo 5
+    3300022: Layer:01 Ladrillo 6
+    3300024: Layer:01 Ladrillo 7
+    3300026: Layer:01 MuroGris
+    3300028: Layer:01 MuroGris 1
+    3300030: Layer:01 MuroGris 2
+    3300032: Layer:02 BarandillaExt
+    3300034: Layer:02 EscalerasExt
+    3300036: Layer:02 EscalerasExt 1
+    3300038: Layer:02 EscalerasExt 2
+    3300040: Layer:02 Ladrillo
+    3300042: Layer:02 Suelo
+    3300044: Layer:02 Sueloblanco
+    3300046: Layer:02 techo
+    3300048: Layer:02 techo 1
+    3300050: Layer:02 techo 2
+    3300052: Layer:02 techo 3
+    3300054: Layer:05 UnionBarandilla
+    3300056: Layer:05 UnionColumna
+    3300058: Layer:05 UnionColumna 1
+    3300060: Layer:05 UnionColumna 2
+    3300062: Layer:05 UnionColumna 3
+    3300064: Layer:05 UnionCristal
+    3300066: Layer:05 UnionCubierta
+    3300068: Layer:05 UnionCubierta 1
+    3300070: Layer:05 UnionCubierta2
+    3300072: Layer:05 UnionSuelo
+    3300074: Layer:05 UnionSuelo 1
+    3300076: Layer:07 CubBordechapa
+    3300078: Layer:07 Cubierta
+    3300080: Layer:07 Cubierta 1
+    3300082: Layer:07 Cubierta 2
+    3300084: Layer:07 Cubierta 3
+    3300086: Layer:07 Cubierta 4
+    3300088: Layer:15 escayola
+    3300090: Layer:15 escayola 1
+    3300092: Layer:15 escayola 2
+    3300094: Layer:16 columnas
+    3300096: Layer:20 ladrillo4
+    3300098: Layer:22 TechoLadrilloEntr2
+    3300100: Layer:23 CubChapa
+    3300102: Layer:23 Ladrillo2y3
+    3300104: Layer:23 Ladrillo2y3 1
+    3300106: Layer:23 Ladrillo2y3 10
+    3300108: Layer:23 Ladrillo2y3 11
+    3300110: Layer:23 Ladrillo2y3 12
+    3300112: Layer:23 Ladrillo2y3 13
+    3300114: Layer:23 Ladrillo2y3 14
+    3300116: Layer:23 Ladrillo2y3 15
+    3300118: Layer:23 Ladrillo2y3 16
+    3300120: Layer:23 Ladrillo2y3 17
+    3300122: Layer:23 Ladrillo2y3 18
+    3300124: Layer:23 Ladrillo2y3 19
+    3300126: Layer:23 Ladrillo2y3 2
+    3300128: Layer:23 Ladrillo2y3 20
+    3300130: Layer:23 Ladrillo2y3 21
+    3300132: Layer:23 Ladrillo2y3 22
+    3300134: Layer:23 Ladrillo2y3 23
+    3300136: Layer:23 Ladrillo2y3 24
+    3300138: Layer:23 Ladrillo2y3 25
+    3300140: Layer:23 Ladrillo2y3 26
+    3300142: Layer:23 Ladrillo2y3 27
+    3300144: Layer:23 Ladrillo2y3 28
+    3300146: Layer:23 Ladrillo2y3 3
+    3300148: Layer:23 Ladrillo2y3 4
+    3300150: Layer:23 Ladrillo2y3 5
+    3300152: Layer:23 Ladrillo2y3 6
+    3300154: Layer:23 Ladrillo2y3 7
+    3300156: Layer:23 Ladrillo2y3 8
+    3300158: Layer:23 Ladrillo2y3 9
+    3300160: Layer:24 Cubierta4
+    3300162: Layer:25 VentCristal
+    3300164: Layer:26 VentManilla
+    3300166: Layer:27 VentMarco
+    3300168: Layer:27 VentMarco 1
+    3300170: Layer:29 Cubierta2y3
+    3300172: Layer:29 Cubierta2y3 1
+    3300174: Layer:29 Cubierta2y3 2
+    3300176: Layer:29 Cubierta2y3 3
+    3300178: Layer:29 Cubierta2y3 4
+    3300180: Layer:30 ColumnaExt
+    4300000: Layer:01 MuroGris
+    4300002: Layer:01 Ladrillo
+    4300004: Layer:01 Ladrillo
+    4300006: Layer:01 Cornisa
+    4300008: Layer:01 Cornisa
+    4300010: Layer:01 MuroGris
+    4300012: Layer:01 Ladrillo
+    4300014: Layer:01 Cornisa
+    4300016: Layer:01 Cornisa
+    4300018: Layer:02 EscalerasExt
+    4300020: Layer:02 EscalerasExt
+    4300022: Layer:02 EscalerasExt
+    4300024: Layer:01 Ladrillo
+    4300026: Layer:01 Ladrillo
+    4300028: Layer:01 MuroGris
+    4300030: Layer:01 Ladrillo
+    4300032: Layer:01 Cornisa
+    4300034: Layer:01 Ladrillo
+    4300036: Layer:05 UnionSuelo
+    4300038: Layer:05 UnionColumna
+    4300040: Layer:05 UnionCristal
+    4300042: Layer:05 UnionSuelo
+    4300044: Layer:05 UnionColumna
+    4300046: Layer:05 UnionBarandilla
+    4300048: Layer:05 UnionCubierta
+    4300050: Layer:05 UnionColumna
+    4300052: Layer:05 UnionColumna
+    4300054: Layer:05 UnionCubierta
+    4300056: Layer:05 UnionCubierta2
+    4300058: Layer:02 Suelo
+    4300060: Layer:01 Ladrillo
+    4300062: Layer:02 techo
+    4300064: Layer:02 techo
+    4300066: Layer:02 techo
+    4300068: Layer:02 Sueloblanco
+    4300070: Layer:07 Cubierta
+    4300072: Layer:07 Cubierta
+    4300074: Layer:07 Cubierta
+    4300076: Layer:07 Cubierta
+    4300078: Layer:07 CubBordechapa
+    4300080: Layer:07 Cubierta
+    4300082: Layer:02 BarandillaExt
+    4300084: Layer:16 columnas
+    4300086: Layer:15 escayola
+    4300088: Layer:15 escayola
+    4300090: Layer:15 escayola
+    4300092: Layer:20 ladrillo4
+    4300094: Layer:25 VentCristal
+    4300096: Layer:27 VentMarco
+    4300098: Layer:27 VentMarco
+    4300100: Layer:26 VentManilla
+    4300102: Layer:24 Cubierta4
+    4300104: Layer:23 CubChapa
+    4300106: Layer:23 Ladrillo2y3
+    4300108: Layer:23 Ladrillo2y3
+    4300110: Layer:23 Ladrillo2y3
+    4300112: Layer:23 Ladrillo2y3
+    4300114: Layer:23 Ladrillo2y3
+    4300116: Layer:22 TechoLadrilloEntr2
+    4300118: Layer:23 Ladrillo2y3
+    4300120: Layer:23 Ladrillo2y3
+    4300122: Layer:23 Ladrillo2y3
+    4300124: Layer:23 Ladrillo2y3
+    4300126: Layer:23 Ladrillo2y3
+    4300128: Layer:23 Ladrillo2y3
+    4300130: Layer:23 Ladrillo2y3
+    4300132: Layer:23 Ladrillo2y3
+    4300134: Layer:23 Ladrillo2y3
+    4300136: Layer:23 Ladrillo2y3
+    4300138: Layer:23 Ladrillo2y3
+    4300140: Layer:23 Ladrillo2y3
+    4300142: Layer:23 Ladrillo2y3
+    4300144: Layer:23 Ladrillo2y3
+    4300146: Layer:23 Ladrillo2y3
+    4300148: Layer:23 Ladrillo2y3
+    4300150: Layer:23 Ladrillo2y3
+    4300152: Layer:23 Ladrillo2y3
+    4300154: Layer:23 Ladrillo2y3
+    4300156: Layer:23 Ladrillo2y3
+    4300158: Layer:23 Ladrillo2y3
+    4300160: Layer:23 Ladrillo2y3
+    4300162: Layer:23 Ladrillo2y3
+    4300164: Layer:23 Ladrillo2y3
+    4300166: Layer:29 Cubierta2y3
+    4300168: Layer:29 Cubierta2y3
+    4300170: Layer:29 Cubierta2y3
+    4300172: Layer:29 Cubierta2y3
+    4300174: Layer:29 Cubierta2y3
+    4300176: Layer:30 ColumnaExt
+    4300178: Layer:02 techo
+    4300180: Layer:02 Ladrillo
+    6400000: Layer:01 Cornisa
+    6400002: Layer:01 Cornisa 1
+    6400004: Layer:01 Cornisa 2
+    6400006: Layer:01 Cornisa 3
+    6400008: Layer:01 Cornisa 4
+    6400010: Layer:01 Ladrillo
+    6400012: Layer:01 Ladrillo 1
+    6400014: Layer:01 Ladrillo 2
+    6400016: Layer:01 Ladrillo 3
+    6400018: Layer:01 Ladrillo 4
+    6400020: Layer:01 Ladrillo 5
+    6400022: Layer:01 Ladrillo 6
+    6400024: Layer:01 Ladrillo 7
+    6400026: Layer:01 MuroGris
+    6400028: Layer:01 MuroGris 1
+    6400030: Layer:01 MuroGris 2
+    6400032: Layer:02 BarandillaExt
+    6400034: Layer:02 EscalerasExt
+    6400036: Layer:02 EscalerasExt 1
+    6400038: Layer:02 EscalerasExt 2
+    6400040: Layer:02 Ladrillo
+    6400042: Layer:02 Suelo
+    6400044: Layer:02 Sueloblanco
+    6400046: Layer:02 techo
+    6400048: Layer:02 techo 1
+    6400050: Layer:02 techo 2
+    6400052: Layer:02 techo 3
+    6400054: Layer:05 UnionBarandilla
+    6400056: Layer:05 UnionColumna
+    6400058: Layer:05 UnionColumna 1
+    6400060: Layer:05 UnionColumna 2
+    6400062: Layer:05 UnionColumna 3
+    6400064: Layer:05 UnionCristal
+    6400066: Layer:05 UnionCubierta
+    6400068: Layer:05 UnionCubierta 1
+    6400070: Layer:05 UnionCubierta2
+    6400072: Layer:05 UnionSuelo
+    6400074: Layer:05 UnionSuelo 1
+    6400076: Layer:07 CubBordechapa
+    6400078: Layer:07 Cubierta
+    6400080: Layer:07 Cubierta 1
+    6400082: Layer:07 Cubierta 2
+    6400084: Layer:07 Cubierta 3
+    6400086: Layer:07 Cubierta 4
+    6400088: Layer:15 escayola
+    6400090: Layer:15 escayola 1
+    6400092: Layer:15 escayola 2
+    6400094: Layer:16 columnas
+    6400096: Layer:20 ladrillo4
+    6400098: Layer:22 TechoLadrilloEntr2
+    6400100: Layer:23 CubChapa
+    6400102: Layer:23 Ladrillo2y3
+    6400104: Layer:23 Ladrillo2y3 1
+    6400106: Layer:23 Ladrillo2y3 10
+    6400108: Layer:23 Ladrillo2y3 11
+    6400110: Layer:23 Ladrillo2y3 12
+    6400112: Layer:23 Ladrillo2y3 13
+    6400114: Layer:23 Ladrillo2y3 14
+    6400116: Layer:23 Ladrillo2y3 15
+    6400118: Layer:23 Ladrillo2y3 16
+    6400120: Layer:23 Ladrillo2y3 17
+    6400122: Layer:23 Ladrillo2y3 18
+    6400124: Layer:23 Ladrillo2y3 19
+    6400126: Layer:23 Ladrillo2y3 2
+    6400128: Layer:23 Ladrillo2y3 20
+    6400130: Layer:23 Ladrillo2y3 21
+    6400132: Layer:23 Ladrillo2y3 22
+    6400134: Layer:23 Ladrillo2y3 23
+    6400136: Layer:23 Ladrillo2y3 24
+    6400138: Layer:23 Ladrillo2y3 25
+    6400140: Layer:23 Ladrillo2y3 26
+    6400142: Layer:23 Ladrillo2y3 27
+    6400144: Layer:23 Ladrillo2y3 28
+    6400146: Layer:23 Ladrillo2y3 3
+    6400148: Layer:23 Ladrillo2y3 4
+    6400150: Layer:23 Ladrillo2y3 5
+    6400152: Layer:23 Ladrillo2y3 6
+    6400154: Layer:23 Ladrillo2y3 7
+    6400156: Layer:23 Ladrillo2y3 8
+    6400158: Layer:23 Ladrillo2y3 9
+    6400160: Layer:24 Cubierta4
+    6400162: Layer:25 VentCristal
+    6400164: Layer:26 VentManilla
+    6400166: Layer:27 VentMarco
+    6400168: Layer:27 VentMarco 1
+    6400170: Layer:29 Cubierta2y3
+    6400172: Layer:29 Cubierta2y3 1
+    6400174: Layer:29 Cubierta2y3 2
+    6400176: Layer:29 Cubierta2y3 3
+    6400178: Layer:29 Cubierta2y3 4
+    6400180: Layer:30 ColumnaExt
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

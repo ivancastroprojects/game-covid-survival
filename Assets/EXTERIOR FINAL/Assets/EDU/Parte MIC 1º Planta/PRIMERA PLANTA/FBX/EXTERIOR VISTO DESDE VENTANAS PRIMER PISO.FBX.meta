@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: deb991e2c39315a44be20f173fe6a5fc
+timeCreated: 1503331775
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer:BORDILLO EXTERIOR
+    100004: Layer:ESTRUCTURA EXT. (BLANCO)
+    100006: Layer:ESTRUCTURA EXT. (GRIS CLARO)
+    100008: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    100010: Layer:METALICO EXTERNO
+    100012: Layer:SUELO EXTERIOR (BALDOSIN)
+    100014: Layer:SUELO EXTERIOR (GRIS)
+    100016: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    100018: Layer:SUELO TIERRA EXTERIOR
+    100020: Layer:TIERRA EXTERIOR OSCURA
+    400000: //RootNode
+    400002: Layer:BORDILLO EXTERIOR
+    400004: Layer:ESTRUCTURA EXT. (BLANCO)
+    400006: Layer:ESTRUCTURA EXT. (GRIS CLARO)
+    400008: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    400010: Layer:METALICO EXTERNO
+    400012: Layer:SUELO EXTERIOR (BALDOSIN)
+    400014: Layer:SUELO EXTERIOR (GRIS)
+    400016: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    400018: Layer:SUELO TIERRA EXTERIOR
+    400020: Layer:TIERRA EXTERIOR OSCURA
+    2300000: Layer:BORDILLO EXTERIOR
+    2300002: Layer:ESTRUCTURA EXT. (BLANCO)
+    2300004: Layer:ESTRUCTURA EXT. (GRIS CLARO)
+    2300006: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    2300008: Layer:METALICO EXTERNO
+    2300010: Layer:SUELO EXTERIOR (BALDOSIN)
+    2300012: Layer:SUELO EXTERIOR (GRIS)
+    2300014: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    2300016: Layer:SUELO TIERRA EXTERIOR
+    2300018: Layer:TIERRA EXTERIOR OSCURA
+    3300000: Layer:BORDILLO EXTERIOR
+    3300002: Layer:ESTRUCTURA EXT. (BLANCO)
+    3300004: Layer:ESTRUCTURA EXT. (GRIS CLARO)
+    3300006: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    3300008: Layer:METALICO EXTERNO
+    3300010: Layer:SUELO EXTERIOR (BALDOSIN)
+    3300012: Layer:SUELO EXTERIOR (GRIS)
+    3300014: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    3300016: Layer:SUELO TIERRA EXTERIOR
+    3300018: Layer:TIERRA EXTERIOR OSCURA
+    4300000: Layer:BORDILLO EXTERIOR
+    4300002: Layer:SUELO EXTERIOR (GRIS)
+    4300004: Layer:SUELO EXTERIOR (BALDOSIN)
+    4300006: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    4300008: Layer:ESTRUCTURA EXT. (GRIS CLARO)
+    4300010: Layer:SUELO TIERRA EXTERIOR
+    4300012: Layer:ESTRUCTURA EXT. (BLANCO)
+    4300014: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    4300016: Layer:METALICO EXTERNO
+    4300018: Layer:TIERRA EXTERIOR OSCURA
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

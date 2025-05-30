@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: cace1c12537aa4cba8a56fc44f7ac6d9
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    4300000: Layer:MarcoMetalUnion
+    4300002: Layer:MarcoMetalUnion
+    4300004: Layer:MarcoMetalUnion
+    4300006: Layer:Cristal
+    4300008: Layer:Marco3
+    4300010: Layer:Marco3
+    4300012: Layer:Marco4
+    4300014: Layer:Marco4
+    4300016: Layer:Bordeexterior
+    4300018: Layer:Bordes
+    4300020: Layer:Endidura
+    4300022: Layer:Chapa
+    4300024: Layer:Marco4
+    4300026: Layer:Marco4
+    4300028: Layer:Marco4
+    4300030: Layer:Marco2
+    4300032: Layer:Marco2
+    4300034: Layer:Marco2
+    4300036: Layer:Marco2
+    4300038: Layer:Marco3
+    4300040: Layer:Marco3
+    4300042: Layer:Marco3
+    4300044: Layer:Marco1
+    4300046: Layer:Marco1
+    4300048: Layer:Marco1
+    4300050: Layer:Marco1
+    4300052: Layer:Marco3
+    4300054: Layer:Marco3
+    4300056: Layer:Marco1
+    4300058: Layer:Marco1
+    4300060: Layer:Marco4
+    4300062: Layer:Marco4
+    4300064: Layer:Marco2
+    4300066: Layer:Marco2
+    4300068: Layer:Marco2
+    4300070: Layer:Marco2
+    4300072: Layer:Marco4
+    4300074: Layer:Marco1
+    4300076: Layer:Marco1
+    4300078: Layer:Marco3
+    4300080: Layer:Marco2
+    4300082: Layer:Marco2
+    4300084: Layer:Marco3
+    4300086: Layer:Marco3
+    4300088: Layer:Bordeexterior
+    4300090: Layer:Marco4
+    4300092: Layer:Marco1
+    4300094: Layer:Marco4
+    4300096: Layer:Marco3
+    4300098: Layer:Marco2
+    4300100: Layer:Marco1
+    4300102: Layer:Marco1
+    4300104: Layer:Marco3
+    4300106: Layer:Marco4
+    4300108: Layer:Marco2
+    4300110: Layer:Marco3
+    4300112: Layer:Marco1
+    4300114: Layer:Marco4
+    4300116: Layer:Marco2
+    4300118: Layer:FelpudoEntrada
+    4300120: Layer:Manilla
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

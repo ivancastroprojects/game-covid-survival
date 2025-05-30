@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 054b61f388c9a56418952bac3551aa8e
+timeCreated: 1504262544
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Layer:BARANDILLA
+    100002: Layer:BARANDILLA 1
+    100004: Layer:Barandilla exterior
+    100006: Layer:bisagra
+    100008: Layer:BORDILLO EXTERIOR
+    100010: Layer:Caja de enchufes parte gris
+    100012: Layer:Caja de enchufes parte negra
+    100014: Layer:Caja de enchufes parte roja
+    100016: Layer:Caja enchufes parte blanca
+    100018: Layer:CRISTAL
+    100020: Layer:Cristal opaco
+    100022: Layer:Escaleras
+    100024: Layer:Escaleras parte de abajo (cemento)
+    100026: Layer:Escaleras2
+    100028: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    100030: Layer:Lampara (gris)
+    100032: Layer:Lampara (luz)
+    100034: Layer:madera exterior
+    100036: Layer:Manillar ventana
+    100038: Layer:Marco exterior
+    100040: Layer:Marco exterior 1
+    100042: Layer:Marco Interior
+    100044: Layer:Muro Exterior
+    100046: Layer:Muro Interior
+    100048: Layer:paneles 1
+    100050: Layer:Paneles 2
+    100052: Layer:Paneles 3
+    100054: Layer:Paneles 4
+    100056: Layer:Paneles 5
+    100058: Layer:PARED CEMENTO
+    100060: Layer:PARED CEMENTO 2
+    100062: Layer:PARED CEMENTO 3
+    100064: Layer:PARED NORMAL
+    100066: Layer:Puerta de emergencia parte gris
+    100068: Layer:Puerta de emergencia parte negra
+    100070: Layer:Puerta de emergencia parte roja
+    100072: Layer:Puerta de emergencia parte roja 1
+    100074: Layer:Radiador
+    100076: Layer:SUELO
+    100078: Layer:SUELO EXTERIOR (BALDOSIN)
+    100080: Layer:SUELO EXTERIOR (GRIS)
+    100082: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    100084: Layer:Suelo pulido (escaleras)
+    100086: Layer:Suelo pulido (grande)
+    100088: Layer:SUELO TIERRA EXTERIOR
+    100090: Layer:TIERRA EXTERIOR OSCURA
+    100092: //RootNode
+    400000: Layer:BARANDILLA
+    400002: Layer:BARANDILLA 1
+    400004: Layer:Barandilla exterior
+    400006: Layer:bisagra
+    400008: Layer:BORDILLO EXTERIOR
+    400010: Layer:Caja de enchufes parte gris
+    400012: Layer:Caja de enchufes parte negra
+    400014: Layer:Caja de enchufes parte roja
+    400016: Layer:Caja enchufes parte blanca
+    400018: Layer:CRISTAL
+    400020: Layer:Cristal opaco
+    400022: Layer:Escaleras
+    400024: Layer:Escaleras parte de abajo (cemento)
+    400026: Layer:Escaleras2
+    400028: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    400030: Layer:Lampara (gris)
+    400032: Layer:Lampara (luz)
+    400034: Layer:madera exterior
+    400036: Layer:Manillar ventana
+    400038: Layer:Marco exterior
+    400040: Layer:Marco exterior 1
+    400042: Layer:Marco Interior
+    400044: Layer:Muro Exterior
+    400046: Layer:Muro Interior
+    400048: Layer:paneles 1
+    400050: Layer:Paneles 2
+    400052: Layer:Paneles 3
+    400054: Layer:Paneles 4
+    400056: Layer:Paneles 5
+    400058: Layer:PARED CEMENTO
+    400060: Layer:PARED CEMENTO 2
+    400062: Layer:PARED CEMENTO 3
+    400064: Layer:PARED NORMAL
+    400066: Layer:Puerta de emergencia parte gris
+    400068: Layer:Puerta de emergencia parte negra
+    400070: Layer:Puerta de emergencia parte roja
+    400072: Layer:Puerta de emergencia parte roja 1
+    400074: Layer:Radiador
+    400076: Layer:SUELO
+    400078: Layer:SUELO EXTERIOR (BALDOSIN)
+    400080: Layer:SUELO EXTERIOR (GRIS)
+    400082: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    400084: Layer:Suelo pulido (escaleras)
+    400086: Layer:Suelo pulido (grande)
+    400088: Layer:SUELO TIERRA EXTERIOR
+    400090: Layer:TIERRA EXTERIOR OSCURA
+    400092: //RootNode
+    2300000: Layer:BARANDILLA
+    2300002: Layer:Barandilla exterior
+    2300004: Layer:bisagra
+    2300006: Layer:BORDILLO EXTERIOR
+    2300008: Layer:Caja de enchufes parte gris
+    2300010: Layer:Caja de enchufes parte negra
+    2300012: Layer:Caja de enchufes parte roja
+    2300014: Layer:Caja enchufes parte blanca
+    2300016: Layer:CRISTAL
+    2300018: Layer:Cristal opaco
+    2300020: Layer:Escaleras
+    2300022: Layer:Escaleras parte de abajo (cemento)
+    2300024: Layer:Escaleras2
+    2300026: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    2300028: Layer:Lampara (gris)
+    2300030: Layer:Lampara (luz)
+    2300032: Layer:madera exterior
+    2300034: Layer:Manillar ventana
+    2300036: Layer:Marco exterior 1
+    2300038: Layer:Marco Interior
+    2300040: Layer:Muro Exterior
+    2300042: Layer:Muro Interior
+    2300044: Layer:paneles 1
+    2300046: Layer:Paneles 2
+    2300048: Layer:Paneles 3
+    2300050: Layer:Paneles 4
+    2300052: Layer:Paneles 5
+    2300054: Layer:PARED CEMENTO
+    2300056: Layer:PARED CEMENTO 2
+    2300058: Layer:PARED CEMENTO 3
+    2300060: Layer:PARED NORMAL
+    2300062: Layer:Puerta de emergencia parte gris
+    2300064: Layer:Puerta de emergencia parte negra
+    2300066: Layer:Puerta de emergencia parte roja 1
+    2300068: Layer:Radiador
+    2300070: Layer:SUELO
+    2300072: Layer:SUELO EXTERIOR (BALDOSIN)
+    2300074: Layer:SUELO EXTERIOR (GRIS)
+    2300076: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    2300078: Layer:Suelo pulido (escaleras)
+    2300080: Layer:Suelo pulido (grande)
+    2300082: Layer:SUELO TIERRA EXTERIOR
+    2300084: Layer:TIERRA EXTERIOR OSCURA
+    3300000: Layer:BARANDILLA
+    3300002: Layer:Barandilla exterior
+    3300004: Layer:bisagra
+    3300006: Layer:BORDILLO EXTERIOR
+    3300008: Layer:Caja de enchufes parte gris
+    3300010: Layer:Caja de enchufes parte negra
+    3300012: Layer:Caja de enchufes parte roja
+    3300014: Layer:Caja enchufes parte blanca
+    3300016: Layer:CRISTAL
+    3300018: Layer:Cristal opaco
+    3300020: Layer:Escaleras
+    3300022: Layer:Escaleras parte de abajo (cemento)
+    3300024: Layer:Escaleras2
+    3300026: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    3300028: Layer:Lampara (gris)
+    3300030: Layer:Lampara (luz)
+    3300032: Layer:madera exterior
+    3300034: Layer:Manillar ventana
+    3300036: Layer:Marco exterior 1
+    3300038: Layer:Marco Interior
+    3300040: Layer:Muro Exterior
+    3300042: Layer:Muro Interior
+    3300044: Layer:paneles 1
+    3300046: Layer:Paneles 2
+    3300048: Layer:Paneles 3
+    3300050: Layer:Paneles 4
+    3300052: Layer:Paneles 5
+    3300054: Layer:PARED CEMENTO
+    3300056: Layer:PARED CEMENTO 2
+    3300058: Layer:PARED CEMENTO 3
+    3300060: Layer:PARED NORMAL
+    3300062: Layer:Puerta de emergencia parte gris
+    3300064: Layer:Puerta de emergencia parte negra
+    3300066: Layer:Puerta de emergencia parte roja 1
+    3300068: Layer:Radiador
+    3300070: Layer:SUELO
+    3300072: Layer:SUELO EXTERIOR (BALDOSIN)
+    3300074: Layer:SUELO EXTERIOR (GRIS)
+    3300076: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    3300078: Layer:Suelo pulido (escaleras)
+    3300080: Layer:Suelo pulido (grande)
+    3300082: Layer:SUELO TIERRA EXTERIOR
+    3300084: Layer:TIERRA EXTERIOR OSCURA
+    4300000: Layer:PARED NORMAL
+    4300002: Layer:Puerta de emergencia parte roja
+    4300004: Layer:Puerta de emergencia parte negra
+    4300006: Layer:Puerta de emergencia parte gris
+    4300008: Layer:bisagra
+    4300010: Layer:Marco Interior
+    4300012: Layer:Marco exterior
+    4300014: Layer:BARANDILLA
+    4300016: Layer:Escaleras
+    4300018: Layer:Escaleras2
+    4300020: Layer:Escaleras parte de abajo (cemento)
+    4300022: Layer:SUELO
+    4300024: Layer:CRISTAL
+    4300026: Layer:Radiador
+    4300028: Layer:Caja enchufes parte blanca
+    4300030: Layer:Caja de enchufes parte negra
+    4300032: Layer:Caja de enchufes parte gris
+    4300034: Layer:Caja de enchufes parte roja
+    4300036: Layer:paneles 1
+    4300038: Layer:Paneles 4
+    4300040: Layer:Paneles 5
+    4300042: Layer:Paneles 3
+    4300044: Layer:Paneles 2
+    4300046: Layer:Muro Interior
+    4300048: Layer:Cristal opaco
+    4300050: Layer:Muro Exterior
+    4300052: Layer:madera exterior
+    4300054: Layer:Barandilla exterior
+    4300056: Layer:Manillar ventana
+    4300058: Layer:BORDILLO EXTERIOR
+    4300060: Layer:SUELO EXTERIOR (GRIS)
+    4300062: Layer:SUELO EXTERIOR (BALDOSIN)
+    4300064: "Layer:SUELO EXTERIOR (PIEDRAS PEQUE\xD1AS)"
+    4300066: Layer:SUELO TIERRA EXTERIOR
+    4300068: Layer:ESTRUCTURA EXT. (GRIS OSCURO)
+    4300070: Layer:TIERRA EXTERIOR OSCURA
+    4300072: Layer:Suelo pulido (grande)
+    4300074: Layer:Suelo pulido (escaleras)
+    4300076: Layer:PARED CEMENTO
+    4300078: Layer:PARED CEMENTO 3
+    4300080: Layer:PARED CEMENTO 2
+    4300082: Layer:Lampara (gris)
+    4300084: Layer:Lampara (luz)
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
