@@ -1,103 +1,108 @@
-# EIII_COVID: Survival Horror en el MIC 🧟🔬
+# EIII_COVID: Survival Horror at the MIC 🧟🔬
 
-[![Tráiler del Juego](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Videos/GIFTrailer.gif)](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Videos/VideoTrailer.mp4)
+[![Game Trailer](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Videos/GIFTrailer.gif)](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Videos/VideoTrailer.mp4)
 
-*Haz clic en la imagen para ver el tráiler completo o [mira el gameplay del modo historia aquí](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Videos/VideoTrailer.mp4)!*
+*Click the image to watch the full trailer or [see the complete story mode gameplay here](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Videos/VideoTrailer.mp4)!*
 
-## 🚀 Introducción
+## 🚀 Introduction
 
-**EIII_COVID** es un escalofriante juego *Survival Horror* desarrollado en **Unity 3D** con **C#**. Este proyecto no es solo un juego, sino la culminación de un **Trabajo Final de Carrera**, distinguido con una **calificación sobresaliente de 10/10**. Prepárate para una inmersión profunda en el Módulo de Investigación Cibernética (MIC), un entorno universitario real meticulosamente modelado en 3D, ahora convertido en el epicentro de una aterradora mutación viral.
+**EIII_COVID** is a chilling *Survival Horror* game developed in **Unity 3D** with **C#**. This project is not just a game, but the culmination of a **Final Degree Project**, awarded a **perfect score of 10/10**. Get ready for a deep dive into the Cybernetic Research Module (MIC), a real university environment meticulously recreated in 3D, now turned into the epicenter of a terrifying viral mutation.
 
-![Lobby del MIC](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_Lobby.png)
-*El Módulo de Investigación Cibernética (MIC) - Tu pesadilla comienza aquí.*
+![MIC Lobby](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_Lobby.png)
 
-## 📜 Trama y Ambientación
+*The Cybernetic Research Module (MIC) – Your nightmare begins here.*
 
-Nos encontramos en los turbulentos días de la pandemia de **COVID-19**. El **[Módulo de Investigación Cibernética (MIC)](https://maps.app.goo.gl/ETBo1set8XJZKfSr7)**, un edificio real situado junto a la facultad de ingenierías de la Universidad (Escuela de Ingenierías Industriales e Informáticas de León, España), ha sido adaptado para la investigación urgente de vacunas. Voluntarios valientes participan en los ensayos clínicos. Sin embargo, la esperanza se torna en horror cuando un experimento sale catastróficamente mal, desatando una **mutación viral extremadamente agresiva**.
+## 📜 Story & Setting
 
-Como jugador, te verás atrapado en este infierno biológico. Tu misión será navegar por las peligrosas instalaciones del MIC, enfrentarte a horrores mutantes, desentrañar la verdad detrás del brote y, sobre todo, luchar por tu supervivencia.
+Set during the turbulent days of the **COVID-19** pandemic, the **[Cybernetic Research Module (MIC)](https://maps.app.goo.gl/ETBo1set8XJZKfSr7)**, a real building next to the School of Engineering at the University of León, Spain, has been repurposed for urgent vaccine research. Brave volunteers participate in clinical trials. However, hope turns to horror when an experiment goes catastrophically wrong, unleashing an **extremely aggressive viral mutation**.
 
-## 🎮 Características del Juego
+As the player, you are trapped in this biological nightmare. Your mission is to navigate the dangerous MIC facilities, face mutant horrors, uncover the truth behind the outbreak, and, above all, fight for your survival.
 
-* **Survival Horror Intenso:** Atmósfera opresiva, recursos limitados y enemigos mutantes que pondrán a prueba tus nervios.
-* **Modo Historia Inmersivo:** Sigue una emocionante cadena de misiones (`Quest.cs`, `QuestGoal.cs`) que te guiará a través de la oscura trama del juego, revelando los secretos del MIC paso a paso.
-* **Múltiples Modos Desafío:** Pon a prueba tus habilidades en tres niveles de dificultad (Fácil, Medio, Difícil) una vez completada la historia principal o como alternativa rápida de juego.
-* **Entorno Realista:** Explora una recreación fiel del [Módulo de Investigación Cibernética (MIC)](https://maps.app.goo.gl/ETBo1set8XJZKfSr7), basado en su ubicación y estructura real.
-* **Gráficos 3D Detallados:** Sumérgete en un entorno visualmente cuidado que potencia la ambientación de terror.
-* **Rica Galería de Personajes:** Interactúa o enfréntate a una variedad de personajes, desde científicos y personal de seguridad hasta pacientes y mutaciones hostiles.
-* **Control de Estados del Jugador:** Gestiona tu salud, inventario y otros estados vitales para sobrevivir a los desafíos.
-* **Exploración y Puzles:** Descubre pistas, resuelve puzles ambientales (`CollElectricity.cs`) y encuentra los recursos necesarios para avanzar.
-* **Interacción con el Entorno y Personajes:** Dialoga con supervivientes (`DialogueManager.cs`, `DialogueTrigger.cs`) y enfréntate a una variedad de enemigos (`Enemies/`, `Scientists/`, `Patients/`).
+## 🎮 Game Features
 
-![Gameplay del Modo Historia](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_StoryModeGameplay.png)
-*Investigando los laboratorios en el Modo Historia.*
+* **Intense Survival Horror:** Oppressive atmosphere, limited resources, and mutant enemies that will test your nerves.
+* **Immersive Story Mode:** Follow an exciting quest chain (`Quest.cs`, `QuestGoal.cs`) that guides you through the dark plot, revealing the secrets of the MIC step by step.
+* **Multiple Challenge Modes:** Test your skills in three difficulty levels (Easy, Medium, Hard) after completing the main story or as a quick alternative.
+* **Realistic Environment:** Explore a faithful recreation of the [Cybernetic Research Module (MIC)](https://maps.app.goo.gl/ETBo1set8XJZKfSr7), based on its real location and structure.
+* **Detailed 3D Graphics:** Immerse yourself in a visually rich environment that enhances the horror atmosphere.
+* **Diverse Cast of Characters:** Interact with or face a variety of characters, from scientists and security staff to patients and hostile mutations.
+* **Player State Management:** Manage your health, inventory, and other vital stats to survive the challenges.
+* **Exploration & Puzzles:** Discover clues, solve environmental puzzles (`CollElectricity.cs`), and find the resources needed to progress.
+* **Environment & Character Interaction:** Engage in dialogue with survivors (`DialogueManager.cs`, `DialogueTrigger.cs`) and face a variety of enemies (`Enemies/`, `Scientists/`, `Patients/`).
 
-### Modos Desafío Intensos
-Pon a prueba tus habilidades de supervivencia en **tres niveles de dificultad**:
-* **Fácil:** Un reto equilibrado para familiarizarte con las mecánicas.
-* **Medio:** Los enemigos son más resistentes y los recursos más escasos.
-* **Difícil:** Una prueba extrema de tus habilidades y nervios, ¡solo para los más valientes!
+![Story Mode Gameplay](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_StoryModeGameplay.png)
 
-![Modos Desafío](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_ChallengeModesGameplay.png)
-*Enfréntate a hordas de mutantes en los diferentes Modos Desafío.*
+*Investigating the laboratories in Story Mode.*
 
-### Diseño de Juego y Mecánicas
-* **Atmósfera Opresiva:** Iluminación dinámica y efectos de parpadeo (`FlickerLight.cs`), junto con sonidos de terror ambiental (`HorrorSounds.cs`), crean una experiencia verdaderamente inmersiva.
-* **Arsenal de Supervivencia:** Utiliza jeringuillas (`syringe.cs`) para administrar curas o atacar, gestiona dosis de vacunas (`VacuneDose.cs`) y utiliza otros objetos clave para tu supervivencia.
-* **Personajes Detallados:** El juego cuenta con una variedad de modelos de personajes (`MainCharacter/`, `MainScientist/`, `SavedPersons/`, etc.), incluyendo un personaje principal basado en un escaneo 3D del propio desarrollador.
+### Intense Challenge Modes
+Test your survival skills in **three difficulty levels**:
+* **Easy:** A balanced challenge to get familiar with the mechanics.
+* **Medium:** Tougher enemies and scarcer resources.
+* **Hard:** An extreme test of your skills and nerves—only for the bravest!
 
-![Escaneo 3D del Desarrollador para el Personaje](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_MeScanned3D.png)
-*Proceso de escaneo 3D y modelado en Blender de Iván Castro Martínez (yo mismo) para el personaje principal. Se hicieron estudios de nubes de puntos para mapear el rostro, en el mismo centro MIC donde transcurre la historia.*
+![Challenge Modes](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_ChallengeModesGameplay.png)
 
-![Items disponibles en el juego](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_ItemsInGameAvailable.png)
-*Objetos clave que encontrarás y necesitarás para sobrevivir.*
+*Face hordes of mutants in the different Challenge Modes.*
 
-## 🎓 Reconocimiento Académico y Documentación
+### Game Design & Mechanics
+* **Oppressive Atmosphere:** Dynamic lighting and flicker effects (`FlickerLight.cs`), along with horror ambient sounds (`HorrorSounds.cs`), create a truly immersive experience.
+* **Survival Arsenal:** Use syringes (`syringe.cs`) to heal or attack, manage vaccine doses (`VacuneDose.cs`), and utilize other key items for survival.
+* **Detailed Characters:** The game features a variety of character models (`MainCharacter/`, `MainScientist/`, `SavedPersons/`, etc.), including a main character based on a 3D scan of the developer himself.
 
-Este proyecto fue mi **Trabajo Final de Carrera** para optar al título de Ingeniero Informático en la Universidad de León, España. [https://www.unileon.es/estudiantes/oferta-academica/grados/grado-en-ingenieria-informatica]
+![3D Scan of the Developer for the Main Character](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_MeScanned3D.png)
 
-Mi **Título de Trabajo Final de Carrera** fue **MIC OUT OF CONTROL**, y fue calificado con un **10 sobre 10**.
+*3D scanning and Blender modeling process of Iván Castro Martínez (myself) for the main character. Point cloud studies were conducted to map the face, right in the MIC where the story takes place.*
 
-Para aquellos interesados en los detalles técnicos, el proceso de desarrollo y la investigación detrás del juego, pueden consultar el documento completo del TFG:
+![In-Game Items](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/Assets/Items/Images/Pic_ItemsInGameAvailable.png)
 
-[📜 Descargar TFG Completo (PDF)](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/tfg.pdf)
+*Key items you will find and need to survive.*
 
-## 🛠️ Detalles Técnicos
+## 🎓 Academic Recognition & Documentation
 
-* **Motor de Juego:** Unity 3D
-* **Lenguaje de Programación:** C#
-* **Modelado 3D y Assets:** Blender, entre otras herramientas.
-* **Gestión de Proyecto y Control de Versiones:** Git, GitHub, Git LFS.
-* **Scripts Clave Destacados:**
-    * `GameManager.cs`: Orquestador principal del juego, estados, modos, UI.
-    * `QuestGiver.cs`, `Quest.cs`, `QuestGoal.cs`: Sistema de misiones.
-    * `DialogueManager.cs`, `DialogueTrigger.cs`: Sistema de diálogos.
-    * `syringe.cs`, `VacuneDose.cs`: Mecánicas de curación/ataque.
-    * `CountDownTimer.cs`, `CountDownTimerChallenge.cs`: Temporizadores para los modos desafío.
-    * `CameraFollow.cs`, `CameraCollision.cs`: Sistema de cámara.
-    * `ChooseCharacter.cs`, `LoadCharacter.cs`: Selección y carga de personajes.
+This project was my **Final Degree Project** to obtain the title of Computer Engineer at the University of León, Spain. [https://www.unileon.es/estudiantes/oferta-academica/grados/grado-en-ingenieria-informatica]
 
-## 🌐 Juega EIII_COVID (Próximamente en WebGL)
+My **Final Degree Project** was titled **MIC OUT OF CONTROL**, and it received a **perfect score of 10/10**.
 
-¡Pronto podrás experimentar el terror directamente en tu navegador! Estoy trabajando para hacer **EIII_COVID** jugable en formato **WebGL** a través de [itch.io](https://ivanintech.com/projects/game-covid-survival/).
+For those interested in technical details, the development process, and the research behind the game, you can check out the full thesis document:
 
-## 📦 Cómo Contribuir o Probar Localmente
+[📜 Download Full Thesis (PDF)](https://raw.githubusercontent.com/ivancastroprojects/game-covid-survival/main/tfg.pdf)
 
-1. **Clona el repositorio:**
+## 🛠️ Technical Details
+
+* **Game Engine:** Unity 3D
+* **Programming Language:** C#
+* **3D Modeling & Assets:** Blender, among other tools.
+* **Project Management & Version Control:** Git, GitHub, Git LFS.
+* **Key Scripts:**
+    * `GameManager.cs`: Main orchestrator for game states, modes, UI.
+    * `QuestGiver.cs`, `Quest.cs`, `QuestGoal.cs`: Quest system.
+    * `DialogueManager.cs`, `DialogueTrigger.cs`: Dialogue system.
+    * `syringe.cs`, `VacuneDose.cs`: Healing/attack mechanics.
+    * `CountDownTimer.cs`, `CountDownTimerChallenge.cs`: Timers for challenge modes.
+    * `CameraFollow.cs`, `CameraCollision.cs`: Camera system.
+    * `ChooseCharacter.cs`, `LoadCharacter.cs`: Character selection and loading.
+
+## 🌐 Play EIII_COVID (Coming Soon on WebGL)
+
+Soon, you'll be able to experience the horror right in your browser! I'm working to make **EIII_COVID** playable in **WebGL** format via [itch.io](https://ivanintech.com/projects/game-covid-survival/).
+
+## 📦 How to Contribute or Play Locally
+
+1. **Clone the repository:**
     ```bash
     git clone https://github.com/ivancastroprojects/game-covid-survival.git
     cd game-covid-survival
     ```
-2. **Asegúrate de tener Git LFS instalado y obtén los archivos grandes:**
+2. **Make sure you have Git LFS installed and pull large files:**
     ```bash
     git lfs install
     git lfs pull
     ```
-3. **Abre el proyecto** con Unity Hub (se ha actualizado el proyecto a Unity 6).
-4. ¡Explora el código, los assets y diviértete (o asústate)!
+3. **Open the project** with Unity Hub (the project has been updated to Unity 6).
+4. Explore the code, assets, and have fun (or get scared)!
 
-## 📄 Licencia
+## 📄 License
 
-Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para más detalles.
+This project is distributed under the **MIT License**. See the `LICENSE` file for more details.
 
 ---
